@@ -2795,6 +2795,24 @@
   </Placemark>
   <Placemark id="temp_export_umap.149">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
+		<SimpleData name="gid">9925</SimpleData>
+		<SimpleData name="tipo_elem">310001</SimpleData>
+		<SimpleData name="idelem">10736</SimpleData>
+		<SimpleData name="bdistrito">14</SimpleData>
+		<SimpleData name="icruce">1</SimpleData>
+		<SimpleData name="pm">52610</SimpleData>
+		<SimpleData name="dis">14</SimpleData>
+		<SimpleData name="cod_cent">52370</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">520370</SimpleData>
+		<SimpleData name="rumbo">296.0000</SimpleData>
+		<SimpleData name="nombre">Sin Nombre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6564404029169,40.4131976095667</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_export_umap.150">
+	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">8893</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">9710</SimpleData>
@@ -2811,7 +2829,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60579900046778,40.3671151183556</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.150">
+  <Placemark id="temp_export_umap.151">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">6657</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -2829,7 +2847,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60797642019755,40.3705845021284</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.151">
+  <Placemark id="temp_export_umap.152">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">1507</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -2848,7 +2866,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61829034983833,40.4338259492574</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.152">
+  <Placemark id="temp_export_umap.153">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">8722</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -2866,7 +2884,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62123246649671,40.39015664688</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.153">
+  <Placemark id="temp_export_umap.154">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">6453</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -2885,7 +2903,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62554522533847,40.4537428516181</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.154">
+  <Placemark id="temp_export_umap.155">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">6150</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -2904,7 +2922,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60078684269327,40.3642325514804</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.155">
+  <Placemark id="temp_export_umap.156">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">91</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -2922,24 +2940,6 @@
 		<SimpleData name="nombre">Av. Daroca 81 N-S(Av. Daroca-Santa Genoveva)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6485665900964,40.4277944137697</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_export_umap.156">
-	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
-		<SimpleData name="gid">9925</SimpleData>
-		<SimpleData name="tipo_elem">310001</SimpleData>
-		<SimpleData name="idelem">10736</SimpleData>
-		<SimpleData name="bdistrito">14</SimpleData>
-		<SimpleData name="icruce">1</SimpleData>
-		<SimpleData name="pm">52610</SimpleData>
-		<SimpleData name="dis">14</SimpleData>
-		<SimpleData name="cod_cent">52370</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">NULL</SimpleData>
-		<SimpleData name="rumbo">296.0000</SimpleData>
-		<SimpleData name="nombre">Sin Nombre</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.6564404029169,40.4131976095667</coordinates></Point>
   </Placemark>
   <Placemark id="temp_export_umap.157">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
@@ -2962,6 +2962,24 @@
   </Placemark>
   <Placemark id="temp_export_umap.158">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
+		<SimpleData name="gid">9911</SimpleData>
+		<SimpleData name="tipo_elem">310001</SimpleData>
+		<SimpleData name="idelem">10722</SimpleData>
+		<SimpleData name="bdistrito">13</SimpleData>
+		<SimpleData name="icruce">58</SimpleData>
+		<SimpleData name="pm">68605</SimpleData>
+		<SimpleData name="dis">13</SimpleData>
+		<SimpleData name="cod_cent">68080</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">680080</SimpleData>
+		<SimpleData name="rumbo">322.0000</SimpleData>
+		<SimpleData name="nombre">Sin Nombre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.66800127877659,40.3810122196549</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_export_umap.159">
+	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">9261</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">10072</SimpleData>
@@ -2978,7 +2996,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64377610349579,40.4846801194808</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.159">
+  <Placemark id="temp_export_umap.160">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">1954</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -2997,7 +3015,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6270135963727,40.4226630988719</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.160">
+  <Placemark id="temp_export_umap.161">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">9810</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -3016,7 +3034,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.55254251786822,40.4056753222214</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.161">
+  <Placemark id="temp_export_umap.162">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">7122</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -3033,7 +3051,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63242018380118,40.4476977589179</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.162">
+  <Placemark id="temp_export_umap.163">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">9134</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -3051,7 +3069,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65928524922171,40.4906278876507</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.163">
+  <Placemark id="temp_export_umap.164">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">9476</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -3069,7 +3087,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60846525197933,40.4899431338397</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.164">
+  <Placemark id="temp_export_umap.165">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">8015</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -3087,7 +3105,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63282422667892,40.3836562600217</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_export_umap.165">
+  <Placemark id="temp_export_umap.166">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
 		<SimpleData name="gid">7593</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -3105,24 +3123,6 @@
 		<SimpleData name="nombre">OPT. Av. Entrev?as N-S(Hern?ndez Mas-Calero Pita)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66948967413971,40.3828306556567</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_export_umap.166">
-	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
-		<SimpleData name="gid">9911</SimpleData>
-		<SimpleData name="tipo_elem">310001</SimpleData>
-		<SimpleData name="idelem">10722</SimpleData>
-		<SimpleData name="bdistrito">13</SimpleData>
-		<SimpleData name="icruce">58</SimpleData>
-		<SimpleData name="pm">68605</SimpleData>
-		<SimpleData name="dis">13</SimpleData>
-		<SimpleData name="cod_cent">68080</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">NULL</SimpleData>
-		<SimpleData name="rumbo">322.0000</SimpleData>
-		<SimpleData name="nombre">Sin Nombre</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.66800127877659,40.3810122196549</coordinates></Point>
   </Placemark>
   <Placemark id="temp_export_umap.167">
 	<ExtendedData><SchemaData schemaUrl="#temp_export_umap">
