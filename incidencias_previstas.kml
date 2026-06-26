@@ -14,7 +14,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con cuatro lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6194757,40.4559145,0</coordinates>
+      <coordinates>-3.6257628,40.4533139,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -30,7 +30,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6163714,40.4592379,0</coordinates>
+      <coordinates>-3.6168446,40.4590229,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -62,7 +62,7 @@
       <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6139602,40.4623869,0</coordinates>
+      <coordinates>-3.6120616,40.4675666,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -78,7 +78,7 @@
       <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6129901,40.4713195,0</coordinates>
+      <coordinates>-3.6134507,40.4709935,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -94,7 +94,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6381679,40.4698267,0</coordinates>
+      <coordinates>-3.6334730,40.4688434,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -126,7 +126,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con VARIAS CABECERAS de autobuses municipales, realizar aglomerado en horario nocturno. Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6378775,40.4692370,0</coordinates>
+      <coordinates>-3.6383242,40.4698065,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -159,6 +159,22 @@
     </ExtendedData>
     <Point>
       <coordinates>-3.6218742,40.4316770,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CALLE DE MARTINEZ VILLERGAS</name>
+    <description><![CDATA[<b>Distrito:</b> CIUDAD LINEAL<br><b>Plazo:</b> 2026/06/29 al 2026/07/04<br><b>Ocupación:</b>  (DÍA)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Ocupacion temporal por obras entre calle de la Condesa de Venadito y calle del Caribe.]]></description>
+    <ExtendedData>
+      <Data name="Distrito"><value><![CDATA[CIUDAD LINEAL]]></value></Data>
+      <Data name="Fech Inicio"><value><![CDATA[2026/06/29]]></value></Data>
+      <Data name="Fech. Fin"><value><![CDATA[2026/07/04]]></value></Data>
+      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
+      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
+      <Data name="DIA/NOCHE"><value><![CDATA[DÍA]]></value></Data>
+      <Data name="Observaciones"><value><![CDATA[Ocupacion temporal por obras entre calle de la Condesa de Venadito y calle del Caribe.]]></value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.6533887,40.4406611,0</coordinates>
     </Point>
   </Placemark>
 </Document></kml>
