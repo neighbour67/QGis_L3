@@ -14,7 +14,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con cuatro lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6253224,40.4533479,0</coordinates>
+      <coordinates>-3.6257628,40.4533139,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -46,7 +46,7 @@
       <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6260341,40.4476202,0</coordinates>
+      <coordinates>-3.6256724,40.4476890,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -82,6 +82,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>CALLE DE LA RIBERA DEL SENA</name>
+    <description><![CDATA[<b>Distrito:</b> BARAJAS<br><b>Plazo:</b> 22/07/2026 al 05/08/2026<br><b>Ocupación:</b>  (DÍA)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Realizar en horario nocturno tanto el fresado como el aglomerado.]]></description>
+    <ExtendedData>
+      <Data name="Distrito"><value><![CDATA[BARAJAS]]></value></Data>
+      <Data name="Fech Inicio"><value><![CDATA[22/07/2026]]></value></Data>
+      <Data name="Fech. Fin"><value><![CDATA[05/08/2026]]></value></Data>
+      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
+      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
+      <Data name="DIA/NOCHE"><value><![CDATA[DÍA]]></value></Data>
+      <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado.]]></value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.6187696,40.4628368,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>CALLE DE AYACUCHO</name>
     <description><![CDATA[<b>Distrito:</b> HORTALEZA<br><b>Plazo:</b> 23/07/2026 al 10/08/2026<br><b>Ocupación:</b>  (DÍA/NOCHE)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Red Basica con lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></description>
     <ExtendedData>
@@ -94,7 +110,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6403041,40.4698806,0</coordinates>
+      <coordinates>-3.6334730,40.4688434,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -126,7 +142,23 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con VARIAS CABECERAS de autobuses municipales, realizar aglomerado en horario nocturno. Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6383242,40.4698065,0</coordinates>
+      <coordinates>-3.6384705,40.4697523,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CALLE DE MIGUEL FLETA Nº 1-13</name>
+    <description><![CDATA[<b>Distrito:</b> SAN BLAS CANILLEJAS<br><b>Plazo:</b> 2026/06/29 al 2026/08/02<br><b>Ocupación:</b>  (DÍA/NOCHE)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> ocupación temporal por obras de “renovación de la red de saneamiento”(ENTRE LA CALLE DE HERMANOS GARCÍA NOBLEJAS Y LA CALLE DE ALBARRACÍN) Se permitirá la entrada a todos los vehículos que necesiten entrar o salir a las empresas y organismos ubicados en ambas calles, quedando siempre con acceso vehicular por ambos lados de la calle ocupada a los garajes, empresas y servicios de emergencia.]]></description>
+    <ExtendedData>
+      <Data name="Distrito"><value><![CDATA[SAN BLAS CANILLEJAS]]></value></Data>
+      <Data name="Fech Inicio"><value><![CDATA[2026/06/29]]></value></Data>
+      <Data name="Fech. Fin"><value><![CDATA[2026/08/02]]></value></Data>
+      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
+      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
+      <Data name="DIA/NOCHE"><value><![CDATA[DÍA/NOCHE]]></value></Data>
+      <Data name="Observaciones"><value><![CDATA[ocupación temporal por obras de “renovación de la red de saneamiento”(ENTRE LA CALLE DE HERMANOS GARCÍA NOBLEJAS Y LA CALLE DE ALBARRACÍN) Se permitirá la entrada a todos los vehículos que necesiten entrar o salir a las empresas y organismos ubicados en ambas calles, quedando siempre con acceso vehicular por ambos lados de la calle ocupada a los garajes, empresas y servicios de emergencia.]]></value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.6306876,40.4320949,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -158,7 +190,23 @@
       <Data name="Observaciones"><value><![CDATA[Ocupacion de la calzada entre la calle Ajofrin y la clle Miguel Yuste FIESTAS DE SAN BLAS]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6099540,40.4348002,0</coordinates>
+      <coordinates>-3.6009504,40.4332165,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CALLE DE LA DE CONDESA VENADITO</name>
+    <description><![CDATA[<b>Distrito:</b> CIUDAD LINEAL<br><b>Plazo:</b> 2026/06/29 al 2026/07/04<br><b>Ocupación:</b>  (DÍA)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Ocupacion temporal por obras entre calle de Albacete  y calle Martinez Villergas.]]></description>
+    <ExtendedData>
+      <Data name="Distrito"><value><![CDATA[CIUDAD LINEAL]]></value></Data>
+      <Data name="Fech Inicio"><value><![CDATA[2026/06/29]]></value></Data>
+      <Data name="Fech. Fin"><value><![CDATA[2026/07/04]]></value></Data>
+      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
+      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
+      <Data name="DIA/NOCHE"><value><![CDATA[DÍA]]></value></Data>
+      <Data name="Observaciones"><value><![CDATA[Ocupacion temporal por obras entre calle de Albacete  y calle Martinez Villergas.]]></value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.6564521,40.4436601,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
