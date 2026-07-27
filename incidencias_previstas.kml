@@ -2,22 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <Placemark>
-    <name>VIA DUBLIN</name>
-    <description><![CDATA[<b>Distrito:</b> BARAJAS<br><b>Plazo:</b> 09/07/2026 al 24/07/2026<br><b>Ocupación:</b>  (DÍA/NOCHE)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></description>
-    <ExtendedData>
-      <Data name="Distrito"><value><![CDATA[BARAJAS]]></value></Data>
-      <Data name="Fech Inicio"><value><![CDATA[09/07/2026]]></value></Data>
-      <Data name="Fech. Fin"><value><![CDATA[24/07/2026]]></value></Data>
-      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
-      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
-      <Data name="DIA/NOCHE"><value><![CDATA[DÍA/NOCHE]]></value></Data>
-      <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-3.6138609,40.4623893,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>GLORIETA DE SINTRA</name>
     <description><![CDATA[<b>Distrito:</b> BARAJAS<br><b>Plazo:</b> 15/07/2026 al 28/07/2026<br><b>Ocupación:</b>  (DÍA/NOCHE)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></description>
     <ExtendedData>
@@ -30,7 +14,7 @@
       <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6134507,40.4709935,0</coordinates>
+      <coordinates>-3.6130646,40.4709897,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -62,7 +46,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con lineas de autobuses municipales, realizar aglomerado en horario nocturno.Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6403041,40.4698806,0</coordinates>
+      <coordinates>-3.6381679,40.4698267,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -94,7 +78,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con VARIAS CABECERAS de autobuses municipales, realizar aglomerado en horario nocturno. Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6384705,40.4697523,0</coordinates>
+      <coordinates>-3.6383242,40.4698065,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -158,7 +142,7 @@
       <Data name="Observaciones"><value><![CDATA[Ocupacion temporal por trabajos de dragados en Plaza Ciudad de Salta.]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6624760,40.4544139,0</coordinates>
+      <coordinates>-3.6612368,40.4552420,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -190,7 +174,7 @@
       <Data name="Observaciones"><value><![CDATA[Ocupacion temporal por trabajos de dragados en Avenida Bucaramanga con calle Zapatoca.]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6357122,40.4722125,0</coordinates>
+      <coordinates>-3.6339372,40.4720384,0</coordinates>
     </Point>
   </Placemark>
 </Document></kml>
