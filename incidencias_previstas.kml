@@ -2,22 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <Placemark>
-    <name>GLORIETA DE SINTRA</name>
-    <description><![CDATA[<b>Distrito:</b> BARAJAS<br><b>Plazo:</b> 15/07/2026 al 28/07/2026<br><b>Ocupación:</b>  (DÍA/NOCHE)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></description>
-    <ExtendedData>
-      <Data name="Distrito"><value><![CDATA[BARAJAS]]></value></Data>
-      <Data name="Fech Inicio"><value><![CDATA[15/07/2026]]></value></Data>
-      <Data name="Fech. Fin"><value><![CDATA[28/07/2026]]></value></Data>
-      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
-      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
-      <Data name="DIA/NOCHE"><value><![CDATA[DÍA/NOCHE]]></value></Data>
-      <Data name="Observaciones"><value><![CDATA[Realizar en horario nocturno tanto el fresado como el aglomerado. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-3.6130646,40.4709897,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>CALLE DE LA RIBERA DEL SENA</name>
     <description><![CDATA[<b>Distrito:</b> BARAJAS<br><b>Plazo:</b> 22/07/2026 al 05/08/2026<br><b>Ocupación:</b>  (DÍA)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Realizar en horario nocturno tanto el fresado como el aglomerado.]]></description>
     <ExtendedData>
@@ -78,7 +62,7 @@
       <Data name="Observaciones"><value><![CDATA[Red Basica con VARIAS CABECERAS de autobuses municipales, realizar aglomerado en horario nocturno. Avisar al Departamento de transporte público y EMT con una antelación de 5 días y coordinar con ellos en todo momento la actuación. Diurno/Nocturno: Fresado/Aglomerado (Flujo vehicular y peatonal controlado por señalistas para minimizar afecciones) (horario a definir según intensidad del tráfico).]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6383242,40.4698065,0</coordinates>
+      <coordinates>-3.6385582,40.4690954,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -126,7 +110,7 @@
       <Data name="Observaciones"><value><![CDATA[Ocupacion temporal por obras en la calle Gutierre de Cetina entre las calle Ascao  y Alcalá.]]></value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-3.6419926,40.4308917,0</coordinates>
+      <coordinates>-3.6437907,40.4331998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -175,6 +159,22 @@
     </ExtendedData>
     <Point>
       <coordinates>-3.6339372,40.4720384,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FUENTE CARRANTONA</name>
+    <description><![CDATA[<b>Distrito:</b> MORATALAZ<br><b>Plazo:</b> 2026/07/30 al 2026/07/31<br><b>Ocupación:</b>  (DÍA)<br><b>Tipo Vía:</b> <br><hr><b>Observaciones:</b> Entre la C/ Encomienda de Palacios y la C/ Luis de Hoyos Sainz]]></description>
+    <ExtendedData>
+      <Data name="Distrito"><value><![CDATA[MORATALAZ]]></value></Data>
+      <Data name="Fech Inicio"><value><![CDATA[2026/07/30]]></value></Data>
+      <Data name="Fech. Fin"><value><![CDATA[2026/07/31]]></value></Data>
+      <Data name="Ocupación Total/Parcial"><value><![CDATA[]]></value></Data>
+      <Data name="Tipo calle RB/RS"><value><![CDATA[]]></value></Data>
+      <Data name="DIA/NOCHE"><value><![CDATA[DÍA]]></value></Data>
+      <Data name="Observaciones"><value><![CDATA[Entre la C/ Encomienda de Palacios y la C/ Luis de Hoyos Sainz]]></value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.6386849,40.3970304,0</coordinates>
     </Point>
   </Placemark>
 </Document></kml>
