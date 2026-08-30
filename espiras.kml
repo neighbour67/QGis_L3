@@ -4184,6 +4184,169 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.205">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">8056</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">8802</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">123</SimpleData>
+		<SimpleData name="pm">79037</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">793106</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">7903106</SimpleData>
+		<SimpleData name="rumbo">40.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8780</SimpleData>
+		<SimpleData name="nombre">Ingeniero Emilio Herrera S-N (Isabel Clara Eugenia - Niceto Alcal? Zamora)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.65101722996648,40.4932693662926</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.206">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">2978</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">3152</SimpleData>
+		<SimpleData name="bdistrito">20</SimpleData>
+		<SimpleData name="icruce">5</SimpleData>
+		<SimpleData name="pm">71001</SimpleData>
+		<SimpleData name="dis">20</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">710101</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">7100101</SimpleData>
+		<SimpleData name="rumbo">250.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">491</SimpleData>
+		<SimpleData name="nombre">Alcal? 541 E-O(Electra-San Romualdo)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62162039691837,40.4423883352082</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.207">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">1074</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">1169</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">12</SimpleData>
+		<SimpleData name="pm">55006</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">550706</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">5500706</SimpleData>
+		<SimpleData name="rumbo">259.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">1778</SimpleData>
+		<SimpleData name="nombre">Ctra. Canillas 101 E-O(Torquemada-Javier Quinto)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6405259517982,40.4652647927433</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.208">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9396</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">10208</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">164</SimpleData>
+		<SimpleData name="pm">70031</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">702016</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">7002016</SimpleData>
+		<SimpleData name="rumbo">247.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9430</SimpleData>
+		<SimpleData name="nombre">Emma Penella 20 O-E (Gta. Luis Cubillo-Gta. Isidro Gonzalez Vel?zquez)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62703161279774,40.4814524642554</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.209">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">8604</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">9416</SimpleData>
+		<SimpleData name="bdistrito">13</SimpleData>
+		<SimpleData name="icruce">101</SimpleData>
+		<SimpleData name="pm">68017</SimpleData>
+		<SimpleData name="dis">13</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">680402</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">6800402</SimpleData>
+		<SimpleData name="rumbo">347.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9167</SimpleData>
+		<SimpleData name="nombre">Av. Entrev?as S-N (Martell-Concejo de Trevenga)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67100593318035,40.3859676464715</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.210">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">6169</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">6514</SimpleData>
+		<SimpleData name="bdistrito">20</SimpleData>
+		<SimpleData name="icruce">71</SimpleData>
+		<SimpleData name="pm">66003</SimpleData>
+		<SimpleData name="dis">20</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">660201</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">6600201</SimpleData>
+		<SimpleData name="rumbo">170.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">581</SimpleData>
+		<SimpleData name="nombre">Suecia 102 S-N(Mar?a Sevilla Diago-Pl. Grecia)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60608856880979,40.4335844435927</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.211">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9949</SimpleData>
+		<SimpleData name="tipo_elem">310001</SimpleData>
+		<SimpleData name="idelem">10760</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">105</SimpleData>
+		<SimpleData name="pm">79603</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">79150</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">NULL</SimpleData>
+		<SimpleData name="rumbo">334.0000</SimpleData>
+		<SimpleData name="nombre">Sin Nombre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.65151882106191,40.4903969448923</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.212">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">6565</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">6981</SimpleData>
+		<SimpleData name="bdistrito">20</SimpleData>
+		<SimpleData name="icruce">104</SimpleData>
+		<SimpleData name="pm">66016</SimpleData>
+		<SimpleData name="dis">20</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">661601</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">6601601</SimpleData>
+		<SimpleData name="rumbo">80.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">2100</SimpleData>
+		<SimpleData name="nombre">Av. Arcentales E-O(Av. Arcentales-Pl. Grecia- M-40)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60871306345667,40.4349318558752</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.213">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5973</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
 		<SimpleData name="idelem">6317</SimpleData>
@@ -4201,7 +4364,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66346082126503,40.4061780639626</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.206">
+  <Placemark id="temp_espiras_umap.214">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2524</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4222,7 +4385,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66610654059766,40.3966270868272</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.207">
+  <Placemark id="temp_espiras_umap.215">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5426</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4241,7 +4404,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65850491249387,40.419897844285</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.208">
+  <Placemark id="temp_espiras_umap.216">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2514</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4262,7 +4425,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66049525252754,40.3937741612056</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.209">
+  <Placemark id="temp_espiras_umap.217">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6676</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4282,7 +4445,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60470194730485,40.3664935738945</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.210">
+  <Placemark id="temp_espiras_umap.218">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9693</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4302,7 +4465,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60561990459228,40.4302565284155</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.211">
+  <Placemark id="temp_espiras_umap.219">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">136</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4323,7 +4486,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64038216360088,40.436855468664</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.212">
+  <Placemark id="temp_espiras_umap.220">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7581</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4343,7 +4506,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62366313889241,40.381421419864</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.213">
+  <Placemark id="temp_espiras_umap.221">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4134</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4364,7 +4527,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66141130395723,40.4845469981842</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.214">
+  <Placemark id="temp_espiras_umap.222">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7548</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4385,7 +4548,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63641816709346,40.4627062965826</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.215">
+  <Placemark id="temp_espiras_umap.223">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4851</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4406,7 +4569,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66813700737078,40.4939111964324</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.216">
+  <Placemark id="temp_espiras_umap.224">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6262</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4427,7 +4590,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66825855734399,40.397751805052</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.217">
+  <Placemark id="temp_espiras_umap.225">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7166</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -4447,7 +4610,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62277722283258,40.3964302244424</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.218">
+  <Placemark id="temp_espiras_umap.226">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4195</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4468,7 +4631,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62042746400339,40.3796011663629</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.219">
+  <Placemark id="temp_espiras_umap.227">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1922</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4489,7 +4652,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64884321149203,40.446814970459</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.220">
+  <Placemark id="temp_espiras_umap.228">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9027</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4509,7 +4672,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6322285928563,40.4860797143596</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.221">
+  <Placemark id="temp_espiras_umap.229">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5254</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4528,7 +4691,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66227067809129,40.450322902586</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.222">
+  <Placemark id="temp_espiras_umap.230">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1009</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4549,28 +4712,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63658670215407,40.4663548879526</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.223">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">6329</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">6684</SimpleData>
-		<SimpleData name="bdistrito">15</SimpleData>
-		<SimpleData name="icruce">96</SimpleData>
-		<SimpleData name="pm">47044</SimpleData>
-		<SimpleData name="dis">15</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">472104</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">4702104</SimpleData>
-		<SimpleData name="rumbo">349.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8619</SimpleData>
-		<SimpleData name="nombre">Mesena 69 N-S(Ramonet-A?astro)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.6636458053528,40.4681826109624</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.224">
+  <Placemark id="temp_espiras_umap.231">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5424</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4589,26 +4731,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65851081663466,40.4199384232724</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.225">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">6035</SimpleData>
-		<SimpleData name="tipo_elem">5401</SimpleData>
-		<SimpleData name="idelem">6379</SimpleData>
-		<SimpleData name="bdistrito">15</SimpleData>
-		<SimpleData name="icruce">999</SimpleData>
-		<SimpleData name="dis">15</SimpleData>
-		<SimpleData name="observ">3</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">33201C1</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">800001</SimpleData>
-		<SimpleData name="idelem_zona_lectura">5796</SimpleData>
-		<SimpleData name="nombre">Sin Nombre</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.66002383597798,40.4829861337195</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.226">
+  <Placemark id="temp_espiras_umap.232">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4824</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4629,7 +4752,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65028458951424,40.4868201154321</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.227">
+  <Placemark id="temp_espiras_umap.233">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9824</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4649,7 +4772,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61360718819267,40.4869556398087</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.228">
+  <Placemark id="temp_espiras_umap.234">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1929</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4670,7 +4793,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64533862073187,40.4447553649837</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.229">
+  <Placemark id="temp_espiras_umap.235">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9068</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4690,7 +4813,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.643966655785,40.4848328395262</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.230">
+  <Placemark id="temp_espiras_umap.236">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9705</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4712,7 +4835,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61706475404168,40.4191310218104</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.231">
+  <Placemark id="temp_espiras_umap.237">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6567</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4733,7 +4856,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60872982274944,40.4349901752379</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.232">
+  <Placemark id="temp_espiras_umap.238">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5532</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4752,7 +4875,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66705605682129,40.4018525763309</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.233">
+  <Placemark id="temp_espiras_umap.239">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8516</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4772,7 +4895,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65551068403384,40.4456714892236</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.234">
+  <Placemark id="temp_espiras_umap.240">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9119</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4792,7 +4915,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65673599658932,40.4878923958413</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.235">
+  <Placemark id="temp_espiras_umap.241">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5090</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4811,7 +4934,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67337096646657,40.4820528473838</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.236">
+  <Placemark id="temp_espiras_umap.242">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9851</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4832,7 +4955,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.557903498146,40.4050999102483</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.237">
+  <Placemark id="temp_espiras_umap.243">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7593</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -4853,7 +4976,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66948967413971,40.3828306556567</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.238">
+  <Placemark id="temp_espiras_umap.244">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1480</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4874,7 +4997,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62977396025591,40.4265935015866</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.239">
+  <Placemark id="temp_espiras_umap.245">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4528</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4895,7 +5018,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61019270977687,40.3679615656407</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.240">
+  <Placemark id="temp_espiras_umap.246">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8979</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4916,7 +5039,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60828506365958,40.3678196568516</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.241">
+  <Placemark id="temp_espiras_umap.247">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7240</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -4937,7 +5060,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63252128404836,40.4393176254865</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.242">
+  <Placemark id="temp_espiras_umap.248">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6304</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4958,7 +5081,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62216450799056,40.417234746033</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.243">
+  <Placemark id="temp_espiras_umap.249">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8616</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4979,7 +5102,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67084144820884,40.3840665601415</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.244">
+  <Placemark id="temp_espiras_umap.250">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8653</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5000,7 +5123,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66680396802366,40.3799196371189</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.245">
+  <Placemark id="temp_espiras_umap.251">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4615</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5021,7 +5144,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63866944035775,40.430065994584</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.246">
+  <Placemark id="temp_espiras_umap.252">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1070</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5042,7 +5165,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63820514923463,40.4652341463676</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.247">
+  <Placemark id="temp_espiras_umap.253">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5183</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -5061,7 +5184,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66579504206816,40.4620489441265</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.248">
+  <Placemark id="temp_espiras_umap.254">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7256</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -5082,70 +5205,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66818044725329,40.4753519762497</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.249">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1522</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1641</SimpleData>
-		<SimpleData name="bdistrito">20</SimpleData>
-		<SimpleData name="icruce">10</SimpleData>
-		<SimpleData name="pm">71022</SimpleData>
-		<SimpleData name="dis">20</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">711402</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7101402</SimpleData>
-		<SimpleData name="rumbo">57.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">1783</SimpleData>
-		<SimpleData name="nombre">Emilio Mu??z  51 E-O(Miguel Yuste-Castillo de Ucl?s)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62296891532206,40.434351265875</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.250">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">98</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">105</SimpleData>
-		<SimpleData name="bdistrito">15</SimpleData>
-		<SimpleData name="icruce">70</SimpleData>
-		<SimpleData name="pm">53027</SimpleData>
-		<SimpleData name="dis">15</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">532302</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5302302</SimpleData>
-		<SimpleData name="rumbo">301.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8668</SimpleData>
-		<SimpleData name="nombre">Av. Daroca E-O(Lago Constanza-Ledesma)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.64591279654776,40.4267257663983</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.251">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">4133</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">4382</SimpleData>
-		<SimpleData name="bdistrito">15</SimpleData>
-		<SimpleData name="icruce">114</SimpleData>
-		<SimpleData name="pm">47032</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">470106</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">4700106</SimpleData>
-		<SimpleData name="rumbo">28.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">1076</SimpleData>
-		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S(Fuente la Mora-M-11)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.66144707177224,40.484559803835</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.252">
+  <Placemark id="temp_espiras_umap.255">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">74</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5166,7 +5226,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64072097296796,40.4303102717542</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.253">
+  <Placemark id="temp_espiras_umap.256">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9791</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5187,7 +5247,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6605856172071,40.4001642043134</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.254">
+  <Placemark id="temp_espiras_umap.257">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9233</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5208,7 +5268,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60615268840778,40.434192736024</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.255">
+  <Placemark id="temp_espiras_umap.258">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8272</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5229,7 +5289,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61888627409908,40.4430987728512</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.256">
+  <Placemark id="temp_espiras_umap.259">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6502</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5250,7 +5310,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60118682831297,40.3689022807397</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.257">
+  <Placemark id="temp_espiras_umap.260">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">227</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5271,7 +5331,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66634575032581,40.4679579512589</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.258">
+  <Placemark id="temp_espiras_umap.261">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1658</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5292,7 +5352,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62959504088753,40.4073961640572</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.259">
+  <Placemark id="temp_espiras_umap.262">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">933</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5313,7 +5373,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66812271791595,40.4791424985201</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.260">
+  <Placemark id="temp_espiras_umap.263">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9691</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5333,7 +5393,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60436201186565,40.4304258546678</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.261">
+  <Placemark id="temp_espiras_umap.264">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6475</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5354,7 +5414,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.58398001823958,40.4453651372002</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.262">
+  <Placemark id="temp_espiras_umap.265">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4187</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5375,7 +5435,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63922501087125,40.3765969388484</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.263">
+  <Placemark id="temp_espiras_umap.266">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6308</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5396,7 +5456,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62457264488469,40.4179693018544</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.264">
+  <Placemark id="temp_espiras_umap.267">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7539</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5416,7 +5476,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66281669485308,40.4611299990423</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.265">
+  <Placemark id="temp_espiras_umap.268">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7059</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5436,7 +5496,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66266528175124,40.3815518504745</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.266">
+  <Placemark id="temp_espiras_umap.269">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9149</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5456,7 +5516,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65979939218611,40.4922029432173</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.267">
+  <Placemark id="temp_espiras_umap.270">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9258</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5476,7 +5536,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64161279307411,40.4846091955326</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.268">
+  <Placemark id="temp_espiras_umap.271">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">143</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5497,7 +5557,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64292074464312,40.4356297888768</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.269">
+  <Placemark id="temp_espiras_umap.272">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1655</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5518,7 +5578,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6331251770838,40.4078643298678</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.270">
+  <Placemark id="temp_espiras_umap.273">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2487</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5539,7 +5599,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64173056981697,40.3879885968952</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.271">
+  <Placemark id="temp_espiras_umap.274">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7487</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5559,7 +5619,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65238937967985,40.4507815931231</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.272">
+  <Placemark id="temp_espiras_umap.275">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">102</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5580,7 +5640,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64480496203822,40.4261165049117</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.273">
+  <Placemark id="temp_espiras_umap.276">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8623</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5601,7 +5661,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65897182401784,40.3762021716558</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.274">
+  <Placemark id="temp_espiras_umap.277">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9570</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5621,7 +5681,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61383726296922,40.4954723519606</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.275">
+  <Placemark id="temp_espiras_umap.278">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4203</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5642,7 +5702,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62581274618581,40.384373448105</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.276">
+  <Placemark id="temp_espiras_umap.279">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9105</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5662,7 +5722,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65366311049088,40.4878574592835</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.277">
+  <Placemark id="temp_espiras_umap.280">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7655</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5682,7 +5742,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60138556349212,40.3659292238869</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.278">
+  <Placemark id="temp_espiras_umap.281">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6919</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5703,7 +5763,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6584214622132,40.4873325150165</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.279">
+  <Placemark id="temp_espiras_umap.282">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2987</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5724,7 +5784,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62408308977935,40.4426597674355</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.280">
+  <Placemark id="temp_espiras_umap.283">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">184</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5745,7 +5805,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65671224587048,40.4319417465469</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.281">
+  <Placemark id="temp_espiras_umap.284">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9253</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5765,7 +5825,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65488225168289,40.488074639236</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.282">
+  <Placemark id="temp_espiras_umap.285">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8292</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5786,7 +5846,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6290738446426,40.4402856169922</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.283">
+  <Placemark id="temp_espiras_umap.286">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1560</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5807,7 +5867,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.58959926531604,40.4618514017834</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.284">
+  <Placemark id="temp_espiras_umap.287">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9893</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5828,7 +5888,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63931408319542,40.4395968689575</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.285">
+  <Placemark id="temp_espiras_umap.288">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1024</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5849,7 +5909,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63696897163638,40.4626720267659</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.286">
+  <Placemark id="temp_espiras_umap.289">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2991</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5870,7 +5930,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63682924367643,40.4382228006439</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.287">
+  <Placemark id="temp_espiras_umap.290">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6299</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5891,7 +5951,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62351399982127,40.4170141170282</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.288">
+  <Placemark id="temp_espiras_umap.291">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9018</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5911,7 +5971,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63491244860131,40.4865259390059</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.289">
+  <Placemark id="temp_espiras_umap.292">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5342</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -5930,7 +5990,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65985426162989,40.4353107329963</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.290">
+  <Placemark id="temp_espiras_umap.293">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5566</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -5949,7 +6009,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67500664458736,40.3934037009733</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.291">
+  <Placemark id="temp_espiras_umap.294">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9454</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -5969,27 +6029,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60838078100558,40.4863494443368</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.292">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9349</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">10161</SimpleData>
-		<SimpleData name="bdistrito">21</SimpleData>
-		<SimpleData name="icruce">22</SimpleData>
-		<SimpleData name="pm">BRT</SimpleData>
-		<SimpleData name="dis">21</SimpleData>
-		<SimpleData name="cod_cent">702409</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7002409</SimpleData>
-		<SimpleData name="rumbo">90.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9622</SimpleData>
-		<SimpleData name="nombre">Detector Parada BRT (PARADA) Sentido H 7024109</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61590661414743,40.4824101052821</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.293">
+  <Placemark id="temp_espiras_umap.295">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8602</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6010,7 +6050,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67129483518341,40.3866550729272</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.294">
+  <Placemark id="temp_espiras_umap.296">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1538</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6031,7 +6071,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61436015649834,40.4395630977149</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.295">
+  <Placemark id="temp_espiras_umap.297">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9487</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6051,7 +6091,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60842065398646,40.4903611090747</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.296">
+  <Placemark id="temp_espiras_umap.298">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7527</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6072,7 +6112,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64490910991581,40.4445326647147</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.297">
+  <Placemark id="temp_espiras_umap.299">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1478</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6093,7 +6133,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61106722934732,40.420269928293</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.298">
+  <Placemark id="temp_espiras_umap.300">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9052</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6113,7 +6153,153 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62849618233348,40.4838613367747</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.299">
+  <Placemark id="temp_espiras_umap.301">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">1036</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">1131</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">43</SimpleData>
+		<SimpleData name="pm">55016</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">552902</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">5502902</SimpleData>
+		<SimpleData name="rumbo">245.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">486</SimpleData>
+		<SimpleData name="nombre">AFOROS - Av. de los Andes 7C O-E(Abelias-Gta. Mar Caribe)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62424596413388,40.4537440026325</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.302">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">8458</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">9267</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">43</SimpleData>
+		<SimpleData name="pm">55090</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">552907</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">5502907</SimpleData>
+		<SimpleData name="rumbo">244.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9084</SimpleData>
+		<SimpleData name="nombre">Av. de los Andes O-E(Arroyo del Santo - Petunias )</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62164369215233,40.4547381900638</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.303">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">4626</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">4896</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">72</SimpleData>
+		<SimpleData name="pm">55118</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">553004</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">5503004</SimpleData>
+		<SimpleData name="rumbo">212.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8605</SimpleData>
+		<SimpleData name="nombre">Av. de los Andes 53 E-O(Mahonia-Mitra)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6185872877182,40.4569194350199</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.304">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">4625</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">4895</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">72</SimpleData>
+		<SimpleData name="pm">55054</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">553005</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">5503005</SimpleData>
+		<SimpleData name="rumbo">212.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8604</SimpleData>
+		<SimpleData name="nombre">Av. de los Andes 53 E-O(Mahonia-Mitra)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61855507997946,40.4569057080564</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.305">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">4624</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">4894</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">72</SimpleData>
+		<SimpleData name="pm">55054</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">553006</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">5503006</SimpleData>
+		<SimpleData name="rumbo">212.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8604</SimpleData>
+		<SimpleData name="nombre">Av. de los Andes 53 E-O(Mahonia-Mitra)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61852296352128,40.4568920235697</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.306">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">7536</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">8265</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">40</SimpleData>
+		<SimpleData name="pm">55019</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">553103</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">5503103</SimpleData>
+		<SimpleData name="rumbo">305.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8602</SimpleData>
+		<SimpleData name="nombre">Salida Hacia a M-40 dir. SUR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61687742129379,40.4576251723939</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.307">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">1049</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">1144</SimpleData>
+		<SimpleData name="bdistrito">21</SimpleData>
+		<SimpleData name="icruce">19</SimpleData>
+		<SimpleData name="pm">55038</SimpleData>
+		<SimpleData name="dis">21</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">553203</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">5503203</SimpleData>
+		<SimpleData name="rumbo">212.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8584</SimpleData>
+		<SimpleData name="nombre">Av. Consejo de Europa 1 N-S(Ribera del Loira-M-40)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61653008916785,40.4593595890157</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.308">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8767</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6134,7 +6320,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62970269512859,40.468633378319</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.300">
+  <Placemark id="temp_espiras_umap.309">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7855</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6155,7 +6341,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66475649249811,40.462719880751</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.301">
+  <Placemark id="temp_espiras_umap.310">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7519</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6175,7 +6361,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66342094345733,40.4841421446124</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.302">
+  <Placemark id="temp_espiras_umap.311">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2888</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6196,7 +6382,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66447340240816,40.3885471911569</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.303">
+  <Placemark id="temp_espiras_umap.312">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6388</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6217,7 +6403,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62594292700753,40.406557054275</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.304">
+  <Placemark id="temp_espiras_umap.313">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2476</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6238,7 +6424,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64462709178149,40.4071622177574</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.305">
+  <Placemark id="temp_espiras_umap.314">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5026</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6259,7 +6445,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63284152280781,40.4247832013149</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.306">
+  <Placemark id="temp_espiras_umap.315">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7592</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -6280,7 +6466,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6694544640441,40.3828360306462</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.307">
+  <Placemark id="temp_espiras_umap.316">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8280</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6301,7 +6487,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63241550115179,40.4387320479262</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.308">
+  <Placemark id="temp_espiras_umap.317">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9197</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6322,7 +6508,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64807259208241,40.4571585047345</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.309">
+  <Placemark id="temp_espiras_umap.318">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8509</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6342,7 +6528,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65758209366541,40.4490807555246</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.310">
+  <Placemark id="temp_espiras_umap.319">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9441</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6362,7 +6548,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60714271930595,40.4850820904646</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.311">
+  <Placemark id="temp_espiras_umap.320">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1618</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6383,7 +6569,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65695217387676,40.4105898368646</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.312">
+  <Placemark id="temp_espiras_umap.321">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9430</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6403,7 +6589,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60963982053563,40.4823950996032</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.313">
+  <Placemark id="temp_espiras_umap.322">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8850</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6424,7 +6610,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65290593439414,40.4542616077162</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.314">
+  <Placemark id="temp_espiras_umap.323">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6217</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6445,7 +6631,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6669502513424,40.4803160818618</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.315">
+  <Placemark id="temp_espiras_umap.324">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7623</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -6464,7 +6650,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6660613996926,40.4037795181769</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.316">
+  <Placemark id="temp_espiras_umap.325">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6759</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6484,7 +6670,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6514344499288,40.4260878183544</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.317">
+  <Placemark id="temp_espiras_umap.326">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6541</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6505,7 +6691,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66093363216613,40.4852281934357</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.318">
+  <Placemark id="temp_espiras_umap.327">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1535</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6526,7 +6712,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61586963189063,40.4418012998617</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.319">
+  <Placemark id="temp_espiras_umap.328">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9585</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6546,7 +6732,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61784727334221,40.4955180858307</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.320">
+  <Placemark id="temp_espiras_umap.329">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9370</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6566,7 +6752,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60992688089812,40.4821821958016</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.321">
+  <Placemark id="temp_espiras_umap.330">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7050</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -6584,7 +6770,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67236538159308,40.4849781330148</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.322">
+  <Placemark id="temp_espiras_umap.331">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9964</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6604,7 +6790,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6227810811074,40.4821106899385</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.323">
+  <Placemark id="temp_espiras_umap.332">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7155</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -6624,7 +6810,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65238668243762,40.4965115939408</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.324">
+  <Placemark id="temp_espiras_umap.333">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9531</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6644,7 +6830,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60846841387639,40.4943996757507</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.325">
+  <Placemark id="temp_espiras_umap.334">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4725</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6665,7 +6851,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66168410442293,40.3944021562469</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.326">
+  <Placemark id="temp_espiras_umap.335">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6519</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -6684,7 +6870,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66040696032703,40.4463491230264</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.327">
+  <Placemark id="temp_espiras_umap.336">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">214</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6705,7 +6891,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6632995044448,40.4607495766308</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.328">
+  <Placemark id="temp_espiras_umap.337">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9680</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6725,7 +6911,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60803265651277,40.4342740176665</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.329">
+  <Placemark id="temp_espiras_umap.338">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9695</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6745,7 +6931,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60655562318831,40.4277047342886</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.330">
+  <Placemark id="temp_espiras_umap.339">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8354</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6765,7 +6951,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60173380205863,40.4301572610254</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.331">
+  <Placemark id="temp_espiras_umap.340">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9289</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6786,7 +6972,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65543413281192,40.4982278653402</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.332">
+  <Placemark id="temp_espiras_umap.341">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6218</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6807,7 +6993,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66691769250452,40.4802935603521</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.333">
+  <Placemark id="temp_espiras_umap.342">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4861</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6828,7 +7014,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66421864980651,40.4937424457083</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.334">
+  <Placemark id="temp_espiras_umap.343">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5567</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -6847,7 +7033,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67497651219426,40.3933804794111</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.335">
+  <Placemark id="temp_espiras_umap.344">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1507</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6868,7 +7054,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61829034983833,40.4338259492574</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.336">
+  <Placemark id="temp_espiras_umap.345">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">991</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6889,7 +7075,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64770707118206,40.473612672821</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.337">
+  <Placemark id="temp_espiras_umap.346">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8177</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6910,7 +7096,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62166091530723,40.4383411470313</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.338">
+  <Placemark id="temp_espiras_umap.347">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">93</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6931,7 +7117,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64892207624155,40.4271214563606</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.339">
+  <Placemark id="temp_espiras_umap.348">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8620</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6952,7 +7138,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66441067188616,40.378416106476</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.340">
+  <Placemark id="temp_espiras_umap.349">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1504</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6973,7 +7159,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62025503374462,40.4335936154564</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.341">
+  <Placemark id="temp_espiras_umap.350">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9522</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -6993,48 +7179,28 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60848178055653,40.4933255192708</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.342">
+  <Placemark id="temp_espiras_umap.351">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8180</SimpleData>
+		<SimpleData name="gid">1663</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">8988</SimpleData>
-		<SimpleData name="bdistrito">20</SimpleData>
-		<SimpleData name="icruce">43</SimpleData>
-		<SimpleData name="pm">71047</SimpleData>
-		<SimpleData name="dis">20</SimpleData>
+		<SimpleData name="idelem">1786</SimpleData>
+		<SimpleData name="bdistrito">14</SimpleData>
+		<SimpleData name="icruce">31</SimpleData>
+		<SimpleData name="pm">65013</SimpleData>
+		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">711104</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7101104</SimpleData>
-		<SimpleData name="rumbo">244.0000</SimpleData>
+		<SimpleData name="cod_cent">651602</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">6501602</SimpleData>
+		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8953</SimpleData>
-		<SimpleData name="nombre">Julian Camarillo 59 E-O(Albadalejo-Cronos)</SimpleData>
+		<SimpleData name="idelem_zona_lectura">118</SimpleData>
+		<SimpleData name="nombre">AFOROS - Fuente Carrantona 6 S-N(Encomienda de Palacios-Hacienda de Pavones)</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.6187790232434,40.4380699255663</coordinates></Point>
+      <Point><coordinates>-3.63666331842238,40.4001607280821</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.343">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9028</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">9845</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">157</SimpleData>
-		<SimpleData name="pm">BRT</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">701306</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7001306</SimpleData>
-		<SimpleData name="rumbo">128.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">84288</SimpleData>
-		<SimpleData name="nombre">Detector Parada BRT Sentido H 7013006</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.63193064098782,40.4859026517655</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.344">
+  <Placemark id="temp_espiras_umap.352">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4914</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7055,7 +7221,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60005372309136,40.3629487614653</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.345">
+  <Placemark id="temp_espiras_umap.353">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8991</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7075,7 +7241,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64143102637013,40.4847229762275</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.346">
+  <Placemark id="temp_espiras_umap.354">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2912</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7096,7 +7262,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6625791606852,40.3816772687823</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.347">
+  <Placemark id="temp_espiras_umap.355">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8665</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7117,7 +7283,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61489531918467,40.4056150686634</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.348">
+  <Placemark id="temp_espiras_umap.356">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8083</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7137,7 +7303,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62881188364079,40.4336799831817</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.349">
+  <Placemark id="temp_espiras_umap.357">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7887</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7158,7 +7324,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65415634901126,40.4241641949415</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.350">
+  <Placemark id="temp_espiras_umap.358">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7142</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -7178,7 +7344,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61881749415864,40.3969805618978</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.351">
+  <Placemark id="temp_espiras_umap.359">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9305</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7199,26 +7365,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64261502462214,40.4357132484205</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.352">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">5249</SimpleData>
-		<SimpleData name="tipo_elem">5401</SimpleData>
-		<SimpleData name="idelem">5583</SimpleData>
-		<SimpleData name="bdistrito">15</SimpleData>
-		<SimpleData name="icruce">999</SimpleData>
-		<SimpleData name="dis">15</SimpleData>
-		<SimpleData name="observ">3</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">20411C3</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">800001</SimpleData>
-		<SimpleData name="idelem_zona_lectura">2650</SimpleData>
-		<SimpleData name="nombre">Sin Nombre</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.66253990361934,40.4502017789907</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.353">
+  <Placemark id="temp_espiras_umap.360">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9440</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7238,7 +7385,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60958388870828,40.4849382029554</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.354">
+  <Placemark id="temp_espiras_umap.361">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5487</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -7257,7 +7404,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66151398042604,40.4124865727334</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.355">
+  <Placemark id="temp_espiras_umap.362">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8064</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7277,7 +7424,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66185548332868,40.4905872917986</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.356">
+  <Placemark id="temp_espiras_umap.363">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1585</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7298,7 +7445,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62443580836536,40.4416300452447</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.357">
+  <Placemark id="temp_espiras_umap.364">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2490</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7319,7 +7466,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64499734961991,40.389461644111</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.358">
+  <Placemark id="temp_espiras_umap.365">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2457</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7340,7 +7487,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65566689013799,40.454769538444</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.359">
+  <Placemark id="temp_espiras_umap.366">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9947</SimpleData>
 		<SimpleData name="tipo_elem">310001</SimpleData>
@@ -7358,7 +7505,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6245236467725,40.4626153099814</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.360">
+  <Placemark id="temp_espiras_umap.367">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7967</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7378,7 +7525,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6284547514379,40.4316606955831</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.361">
+  <Placemark id="temp_espiras_umap.368">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">998</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7399,7 +7546,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64067671659845,40.4698464233451</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.362">
+  <Placemark id="temp_espiras_umap.369">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9846</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7420,7 +7567,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.56234589046449,40.4051895647866</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.363">
+  <Placemark id="temp_espiras_umap.370">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5113</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -7439,7 +7586,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67414293974687,40.4756993891421</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.364">
+  <Placemark id="temp_espiras_umap.371">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9341</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7459,7 +7606,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61880924053054,40.4826382421632</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.365">
+  <Placemark id="temp_espiras_umap.372">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8879</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7479,7 +7626,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60575149892271,40.3680271305753</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.366">
+  <Placemark id="temp_espiras_umap.373">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1080</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7500,7 +7647,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64405603549015,40.4641825843134</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.367">
+  <Placemark id="temp_espiras_umap.374">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6022</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -7519,7 +7666,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65990050685065,40.4830816584256</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.368">
+  <Placemark id="temp_espiras_umap.375">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9158</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7539,7 +7686,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65830989353182,40.4933739989532</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.369">
+  <Placemark id="temp_espiras_umap.376">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9548</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7559,7 +7706,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61009464075912,40.4948494458552</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.370">
+  <Placemark id="temp_espiras_umap.377">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9729</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7580,7 +7727,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61160822438708,40.4253868727133</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.371">
+  <Placemark id="temp_espiras_umap.378">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2513</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7601,7 +7748,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66051619564418,40.3937529053491</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.372">
+  <Placemark id="temp_espiras_umap.379">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2493</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7622,7 +7769,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64329174690312,40.3900777109016</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.373">
+  <Placemark id="temp_espiras_umap.380">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2890</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7643,7 +7790,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66237350417722,40.3924996877806</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.374">
+  <Placemark id="temp_espiras_umap.381">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5245</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -7662,7 +7809,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66254983081727,40.4502412028632</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.375">
+  <Placemark id="temp_espiras_umap.382">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9510</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7682,7 +7829,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60924789292094,40.4949055712798</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.376">
+  <Placemark id="temp_espiras_umap.383">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6680</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7702,7 +7849,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60482772041517,40.3663663960362</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.377">
+  <Placemark id="temp_espiras_umap.384">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9404</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7722,7 +7869,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62300079570292,40.4822661521477</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.378">
+  <Placemark id="temp_espiras_umap.385">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7590</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -7743,7 +7890,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66805611031994,40.3810467448333</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.379">
+  <Placemark id="temp_espiras_umap.386">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">138</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7764,7 +7911,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64034671795649,40.4370372458537</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.380">
+  <Placemark id="temp_espiras_umap.387">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9565</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7784,7 +7931,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61397306764339,40.4955356622204</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.381">
+  <Placemark id="temp_espiras_umap.388">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6542</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7805,7 +7952,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66089453401228,40.4852155649058</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.382">
+  <Placemark id="temp_espiras_umap.389">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9509</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7825,7 +7972,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60924789292094,40.4949055712798</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.383">
+  <Placemark id="temp_espiras_umap.390">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1063</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7846,7 +7993,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62656580526342,40.4590653132813</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.384">
+  <Placemark id="temp_espiras_umap.391">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9689</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7866,7 +8013,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60472912830009,40.427599835382</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.385">
+  <Placemark id="temp_espiras_umap.392">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">3083</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7887,7 +8034,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6206522741818,40.4394186787277</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.386">
+  <Placemark id="temp_espiras_umap.393">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9882</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7908,7 +8055,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64203687733417,40.3852363601573</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.387">
+  <Placemark id="temp_espiras_umap.394">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">221</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7929,48 +8076,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65252040457011,40.4633839808734</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.388">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">10025</SimpleData>
-		<SimpleData name="tipo_elem">101002</SimpleData>
-		<SimpleData name="idelem">10836</SimpleData>
-		<SimpleData name="bdistrito">14</SimpleData>
-		<SimpleData name="icruce">57</SimpleData>
-		<SimpleData name="dis">14</SimpleData>
-		<SimpleData name="cod_cent">653402</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">3503402</SimpleData>
-		<SimpleData name="fecha_inst">2026/07/14 00:00:00.571</SimpleData>
-		<SimpleData name="rumbo">18.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">200001</SimpleData>
-		<SimpleData name="idelem_zona_lectura">1736</SimpleData>
-		<SimpleData name="nombre">Sin Nombre</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62792916642126,40.3985964188655</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.389">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8466</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">9275</SimpleData>
-		<SimpleData name="bdistrito">19</SimpleData>
-		<SimpleData name="icruce">27</SimpleData>
-		<SimpleData name="pm">54011</SimpleData>
-		<SimpleData name="dis">19</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">540601</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5400601</SimpleData>
-		<SimpleData name="rumbo">94.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">2506</SimpleData>
-		<SimpleData name="nombre">AFOROS - San Cipriano 26 O-E(Villalmanzo-Lago Van)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.60738260383991,40.4040998836586</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.390">
+  <Placemark id="temp_espiras_umap.395">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9880</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -7991,7 +8097,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6425647759575,40.3865388324401</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.391">
+  <Placemark id="temp_espiras_umap.396">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9512</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8011,7 +8117,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60848121695111,40.4932579889186</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.392">
+  <Placemark id="temp_espiras_umap.397">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7199</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -8032,7 +8138,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65796867089536,40.4125430629375</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.393">
+  <Placemark id="temp_espiras_umap.398">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9259</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8052,7 +8158,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64884469728568,40.4861515467309</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.394">
+  <Placemark id="temp_espiras_umap.399">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8150</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8073,7 +8179,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64101197333591,40.4299677227839</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.395">
+  <Placemark id="temp_espiras_umap.400">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9193</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8094,7 +8200,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64713357358667,40.4545505564666</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.396">
+  <Placemark id="temp_espiras_umap.401">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1502</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8115,7 +8221,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62529743582658,40.4268558503511</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.397">
+  <Placemark id="temp_espiras_umap.402">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9069</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8135,7 +8241,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.643966655785,40.4848328395262</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.398">
+  <Placemark id="temp_espiras_umap.403">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7560</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8156,7 +8262,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62806422611583,40.4633887694566</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.399">
+  <Placemark id="temp_espiras_umap.404">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2963</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8177,7 +8283,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63737517818167,40.4316776645212</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.400">
+  <Placemark id="temp_espiras_umap.405">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6701</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8198,7 +8304,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64507161607028,40.3899115057696</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.401">
+  <Placemark id="temp_espiras_umap.406">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7874</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8219,7 +8325,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65442649094026,40.4634597190292</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.402">
+  <Placemark id="temp_espiras_umap.407">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1084</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8240,7 +8346,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64836422626244,40.463061038367</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.403">
+  <Placemark id="temp_espiras_umap.408">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9843</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8261,7 +8367,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.56412550019745,40.4062766348328</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.404">
+  <Placemark id="temp_espiras_umap.409">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8768</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8282,7 +8388,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62971398062816,40.4686015733774</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.405">
+  <Placemark id="temp_espiras_umap.410">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4530</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8303,7 +8409,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60577769229735,40.3844027222866</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.406">
+  <Placemark id="temp_espiras_umap.411">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7788</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -8322,7 +8428,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64944951393123,40.4009000308685</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.407">
+  <Placemark id="temp_espiras_umap.412">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">77</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8343,7 +8449,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64290290282849,40.4295283884969</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.408">
+  <Placemark id="temp_espiras_umap.413">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">118</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8364,7 +8470,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6537900303311,40.4205472745977</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.409">
+  <Placemark id="temp_espiras_umap.414">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">135</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8385,7 +8491,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64375912170803,40.434502885088</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.410">
+  <Placemark id="temp_espiras_umap.415">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9496</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8405,7 +8511,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60865722840083,40.4907828856598</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.411">
+  <Placemark id="temp_espiras_umap.416">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6301</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8426,7 +8532,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62258814172556,40.4173676542421</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.412">
+  <Placemark id="temp_espiras_umap.417">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7255</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -8447,7 +8553,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66821621041879,40.4753495378755</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.413">
+  <Placemark id="temp_espiras_umap.418">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9537</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8467,7 +8573,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60747164770163,40.4949469032235</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.414">
+  <Placemark id="temp_espiras_umap.419">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6300</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8488,27 +8594,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6235034199794,40.4170478206522</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.415">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8056</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">8802</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">123</SimpleData>
-		<SimpleData name="pm">79037</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">793106</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7903106</SimpleData>
-		<SimpleData name="rumbo">40.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8780</SimpleData>
-		<SimpleData name="nombre">Ingeniero Emilio Herrera S-N (Isabel Clara Eugenia - Niceto Alcal? Zamora)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.65101722996648,40.4932693662926</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.416">
+  <Placemark id="temp_espiras_umap.420">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1000</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8530,7 +8616,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64067405918269,40.4699004486923</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.417">
+  <Placemark id="temp_espiras_umap.421">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5413</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -8549,7 +8635,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65902128122813,40.4222317998542</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.418">
+  <Placemark id="temp_espiras_umap.422">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1637</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8570,7 +8656,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64618530117293,40.4083019504054</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.419">
+  <Placemark id="temp_espiras_umap.423">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7790</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -8589,7 +8675,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64927400869786,40.40101220255</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.420">
+  <Placemark id="temp_espiras_umap.424">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1642</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8610,7 +8696,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63949641582729,40.4094258455152</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.421">
+  <Placemark id="temp_espiras_umap.425">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4329</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8631,7 +8717,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62927502748025,40.414527937695</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.422">
+  <Placemark id="temp_espiras_umap.426">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9473</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8651,7 +8737,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60863813946683,40.4886184291185</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.423">
+  <Placemark id="temp_espiras_umap.427">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9203</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8672,7 +8758,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65171184973098,40.4571434981507</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.424">
+  <Placemark id="temp_espiras_umap.428">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1880</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8693,7 +8779,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66691482187849,40.4695723059304</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.425">
+  <Placemark id="temp_espiras_umap.429">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9032</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8713,7 +8799,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6320068498474,40.4859011697651</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.426">
+  <Placemark id="temp_espiras_umap.430">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">191</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8734,7 +8820,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65564960547979,40.4348506715224</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.427">
+  <Placemark id="temp_espiras_umap.431">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6260</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8755,7 +8841,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6506553545111,40.488668217003</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.428">
+  <Placemark id="temp_espiras_umap.432">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2926</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8776,7 +8862,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63712905492926,40.3859505021179</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.429">
+  <Placemark id="temp_espiras_umap.433">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4987</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8797,7 +8883,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62397722663683,40.4564444590853</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.430">
+  <Placemark id="temp_espiras_umap.434">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1517</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8818,7 +8904,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62001044634538,40.4349132761877</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.431">
+  <Placemark id="temp_espiras_umap.435">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1537</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8839,7 +8925,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61510102109261,40.4404135562903</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.432">
+  <Placemark id="temp_espiras_umap.436">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">137</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8860,7 +8946,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64040294806204,40.436878068361</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.433">
+  <Placemark id="temp_espiras_umap.437">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2868</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8881,7 +8967,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65325955620817,40.3904113150031</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.434">
+  <Placemark id="temp_espiras_umap.438">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">86</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -8902,112 +8988,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64748544798822,40.4289309381291</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.435">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1036</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1131</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">43</SimpleData>
-		<SimpleData name="pm">55016</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">552902</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
-		<SimpleData name="etiqueta">5502902</SimpleData>
-		<SimpleData name="rumbo">245.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">486</SimpleData>
-		<SimpleData name="nombre">AFOROS - Av. de los Andes 7C O-E(Abelias-Gta. Mar Caribe)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62424596413388,40.4537440026325</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.436">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8458</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">9267</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">43</SimpleData>
-		<SimpleData name="pm">55090</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">552907</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
-		<SimpleData name="etiqueta">5502907</SimpleData>
-		<SimpleData name="rumbo">244.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9084</SimpleData>
-		<SimpleData name="nombre">Av. de los Andes O-E(Arroyo del Santo - Petunias )</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62164369215233,40.4547381900638</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.437">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">4626</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">4896</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">72</SimpleData>
-		<SimpleData name="pm">55118</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">553004</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
-		<SimpleData name="etiqueta">5503004</SimpleData>
-		<SimpleData name="rumbo">212.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8605</SimpleData>
-		<SimpleData name="nombre">Av. de los Andes 53 E-O(Mahonia-Mitra)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.6185872877182,40.4569194350199</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.438">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">4625</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">4895</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">72</SimpleData>
-		<SimpleData name="pm">55054</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">553005</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
-		<SimpleData name="etiqueta">5503005</SimpleData>
-		<SimpleData name="rumbo">212.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8604</SimpleData>
-		<SimpleData name="nombre">Av. de los Andes 53 E-O(Mahonia-Mitra)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61855507997946,40.4569057080564</coordinates></Point>
-  </Placemark>
   <Placemark id="temp_espiras_umap.439">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">4624</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">4894</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">72</SimpleData>
-		<SimpleData name="pm">55054</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">553006</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
-		<SimpleData name="etiqueta">5503006</SimpleData>
-		<SimpleData name="rumbo">212.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8604</SimpleData>
-		<SimpleData name="nombre">Av. de los Andes 53 E-O(Mahonia-Mitra)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61852296352128,40.4568920235697</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.440">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2918</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9028,7 +9009,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63276938993457,40.3837370108651</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.441">
+  <Placemark id="temp_espiras_umap.440">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2946</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9049,7 +9030,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64074825456611,40.4055174498344</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.442">
+  <Placemark id="temp_espiras_umap.441">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7516</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9069,7 +9050,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65176937800431,40.4502377164893</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.443">
+  <Placemark id="temp_espiras_umap.442">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">144</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9090,7 +9071,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64294111925889,40.4356524263783</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.444">
+  <Placemark id="temp_espiras_umap.443">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9394</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9110,209 +9091,229 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6086456453644,40.4831105585134</coordinates></Point>
   </Placemark>
+  <Placemark id="temp_espiras_umap.444">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">6329</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">6684</SimpleData>
+		<SimpleData name="bdistrito">15</SimpleData>
+		<SimpleData name="icruce">96</SimpleData>
+		<SimpleData name="pm">47044</SimpleData>
+		<SimpleData name="dis">15</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">472104</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">4702104</SimpleData>
+		<SimpleData name="rumbo">349.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8619</SimpleData>
+		<SimpleData name="nombre">Mesena 69 N-S(Ramonet-A?astro)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6636458053528,40.4681826109624</coordinates></Point>
+  </Placemark>
   <Placemark id="temp_espiras_umap.445">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">7536</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">8265</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">40</SimpleData>
-		<SimpleData name="pm">55019</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">553103</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
-		<SimpleData name="etiqueta">5503103</SimpleData>
-		<SimpleData name="rumbo">305.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8602</SimpleData>
-		<SimpleData name="nombre">Salida Hacia a M-40 dir. SUR</SimpleData>
+		<SimpleData name="gid">6035</SimpleData>
+		<SimpleData name="tipo_elem">5401</SimpleData>
+		<SimpleData name="idelem">6379</SimpleData>
+		<SimpleData name="bdistrito">15</SimpleData>
+		<SimpleData name="icruce">999</SimpleData>
+		<SimpleData name="dis">15</SimpleData>
+		<SimpleData name="observ">3</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">33201C1</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">800001</SimpleData>
+		<SimpleData name="idelem_zona_lectura">5796</SimpleData>
+		<SimpleData name="nombre">Sin Nombre</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61687742129379,40.4576251723939</coordinates></Point>
+      <Point><coordinates>-3.66002383597798,40.4829861337195</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.446">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1049</SimpleData>
+		<SimpleData name="gid">1522</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1144</SimpleData>
-		<SimpleData name="bdistrito">21</SimpleData>
-		<SimpleData name="icruce">19</SimpleData>
-		<SimpleData name="pm">55038</SimpleData>
-		<SimpleData name="dis">21</SimpleData>
+		<SimpleData name="idelem">1641</SimpleData>
+		<SimpleData name="bdistrito">20</SimpleData>
+		<SimpleData name="icruce">10</SimpleData>
+		<SimpleData name="pm">71022</SimpleData>
+		<SimpleData name="dis">20</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">553203</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
-		<SimpleData name="etiqueta">5503203</SimpleData>
-		<SimpleData name="rumbo">212.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8584</SimpleData>
-		<SimpleData name="nombre">Av. Consejo de Europa 1 N-S(Ribera del Loira-M-40)</SimpleData>
+		<SimpleData name="cod_cent">711402</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">7101402</SimpleData>
+		<SimpleData name="rumbo">57.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">1783</SimpleData>
+		<SimpleData name="nombre">Emilio Mu??z  51 E-O(Miguel Yuste-Castillo de Ucl?s)</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61653008916785,40.4593595890157</coordinates></Point>
+      <Point><coordinates>-3.62296891532206,40.434351265875</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.447">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">2978</SimpleData>
+		<SimpleData name="gid">98</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">3152</SimpleData>
-		<SimpleData name="bdistrito">20</SimpleData>
-		<SimpleData name="icruce">5</SimpleData>
-		<SimpleData name="pm">71001</SimpleData>
-		<SimpleData name="dis">20</SimpleData>
+		<SimpleData name="idelem">105</SimpleData>
+		<SimpleData name="bdistrito">15</SimpleData>
+		<SimpleData name="icruce">70</SimpleData>
+		<SimpleData name="pm">53027</SimpleData>
+		<SimpleData name="dis">15</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">710101</SimpleData>
+		<SimpleData name="cod_cent">532302</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7100101</SimpleData>
-		<SimpleData name="rumbo">250.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">491</SimpleData>
-		<SimpleData name="nombre">Alcal? 541 E-O(Electra-San Romualdo)</SimpleData>
+		<SimpleData name="etiqueta">5302302</SimpleData>
+		<SimpleData name="rumbo">301.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8668</SimpleData>
+		<SimpleData name="nombre">Av. Daroca E-O(Lago Constanza-Ledesma)</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62162039691837,40.4423883352082</coordinates></Point>
+      <Point><coordinates>-3.64591279654776,40.4267257663983</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.448">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1074</SimpleData>
+		<SimpleData name="gid">4133</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1169</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">12</SimpleData>
-		<SimpleData name="pm">55006</SimpleData>
+		<SimpleData name="idelem">4382</SimpleData>
+		<SimpleData name="bdistrito">15</SimpleData>
+		<SimpleData name="icruce">114</SimpleData>
+		<SimpleData name="pm">47032</SimpleData>
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">550706</SimpleData>
+		<SimpleData name="cod_cent">470106</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5500706</SimpleData>
-		<SimpleData name="rumbo">259.0000</SimpleData>
+		<SimpleData name="etiqueta">4700106</SimpleData>
+		<SimpleData name="rumbo">28.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">1778</SimpleData>
-		<SimpleData name="nombre">Ctra. Canillas 101 E-O(Torquemada-Javier Quinto)</SimpleData>
+		<SimpleData name="idelem_zona_lectura">1076</SimpleData>
+		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S(Fuente la Mora-M-11)</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.6405259517982,40.4652647927433</coordinates></Point>
+      <Point><coordinates>-3.66144707177224,40.484559803835</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.449">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9396</SimpleData>
+		<SimpleData name="gid">9349</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">10208</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">164</SimpleData>
-		<SimpleData name="pm">70031</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">702016</SimpleData>
+		<SimpleData name="idelem">10161</SimpleData>
+		<SimpleData name="bdistrito">21</SimpleData>
+		<SimpleData name="icruce">22</SimpleData>
+		<SimpleData name="pm">BRT</SimpleData>
+		<SimpleData name="dis">21</SimpleData>
+		<SimpleData name="cod_cent">702409</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7002016</SimpleData>
-		<SimpleData name="rumbo">247.0000</SimpleData>
+		<SimpleData name="etiqueta">7002409</SimpleData>
+		<SimpleData name="rumbo">90.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9430</SimpleData>
-		<SimpleData name="nombre">Emma Penella 20 O-E (Gta. Luis Cubillo-Gta. Isidro Gonzalez Vel?zquez)</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9622</SimpleData>
+		<SimpleData name="nombre">Detector Parada BRT (PARADA) Sentido H 7024109</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62703161279774,40.4814524642554</coordinates></Point>
+      <Point><coordinates>-3.61590661414743,40.4824101052821</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.450">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8604</SimpleData>
+		<SimpleData name="gid">8180</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">9416</SimpleData>
-		<SimpleData name="bdistrito">13</SimpleData>
-		<SimpleData name="icruce">101</SimpleData>
-		<SimpleData name="pm">68017</SimpleData>
-		<SimpleData name="dis">13</SimpleData>
+		<SimpleData name="idelem">8988</SimpleData>
+		<SimpleData name="bdistrito">20</SimpleData>
+		<SimpleData name="icruce">43</SimpleData>
+		<SimpleData name="pm">71047</SimpleData>
+		<SimpleData name="dis">20</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">680402</SimpleData>
+		<SimpleData name="cod_cent">711104</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6800402</SimpleData>
-		<SimpleData name="rumbo">347.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9167</SimpleData>
-		<SimpleData name="nombre">Av. Entrev?as S-N (Martell-Concejo de Trevenga)</SimpleData>
+		<SimpleData name="etiqueta">7101104</SimpleData>
+		<SimpleData name="rumbo">244.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8953</SimpleData>
+		<SimpleData name="nombre">Julian Camarillo 59 E-O(Albadalejo-Cronos)</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.67100593318035,40.3859676464715</coordinates></Point>
+      <Point><coordinates>-3.6187790232434,40.4380699255663</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.451">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">6169</SimpleData>
+		<SimpleData name="gid">9028</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">6514</SimpleData>
-		<SimpleData name="bdistrito">20</SimpleData>
-		<SimpleData name="icruce">71</SimpleData>
-		<SimpleData name="pm">66003</SimpleData>
-		<SimpleData name="dis">20</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">660201</SimpleData>
+		<SimpleData name="idelem">9845</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">157</SimpleData>
+		<SimpleData name="pm">BRT</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">701306</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6600201</SimpleData>
-		<SimpleData name="rumbo">170.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">581</SimpleData>
-		<SimpleData name="nombre">Suecia 102 S-N(Mar?a Sevilla Diago-Pl. Grecia)</SimpleData>
+		<SimpleData name="etiqueta">7001306</SimpleData>
+		<SimpleData name="rumbo">128.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">84288</SimpleData>
+		<SimpleData name="nombre">Detector Parada BRT Sentido H 7013006</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.60608856880979,40.4335844435927</coordinates></Point>
+      <Point><coordinates>-3.63193064098782,40.4859026517655</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.452">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9949</SimpleData>
-		<SimpleData name="tipo_elem">310001</SimpleData>
-		<SimpleData name="idelem">10760</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">105</SimpleData>
-		<SimpleData name="pm">79603</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">79150</SimpleData>
+		<SimpleData name="gid">5249</SimpleData>
+		<SimpleData name="tipo_elem">5401</SimpleData>
+		<SimpleData name="idelem">5583</SimpleData>
+		<SimpleData name="bdistrito">15</SimpleData>
+		<SimpleData name="icruce">999</SimpleData>
+		<SimpleData name="dis">15</SimpleData>
+		<SimpleData name="observ">3</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">NULL</SimpleData>
-		<SimpleData name="rumbo">334.0000</SimpleData>
+		<SimpleData name="etiqueta">20411C3</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">800001</SimpleData>
+		<SimpleData name="idelem_zona_lectura">2650</SimpleData>
 		<SimpleData name="nombre">Sin Nombre</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.65151882106191,40.4903969448923</coordinates></Point>
+      <Point><coordinates>-3.66253990361934,40.4502017789907</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.453">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">6565</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">6981</SimpleData>
-		<SimpleData name="bdistrito">20</SimpleData>
-		<SimpleData name="icruce">104</SimpleData>
-		<SimpleData name="pm">66016</SimpleData>
-		<SimpleData name="dis">20</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">661601</SimpleData>
+		<SimpleData name="gid">10025</SimpleData>
+		<SimpleData name="tipo_elem">101002</SimpleData>
+		<SimpleData name="idelem">10836</SimpleData>
+		<SimpleData name="bdistrito">14</SimpleData>
+		<SimpleData name="icruce">57</SimpleData>
+		<SimpleData name="dis">14</SimpleData>
+		<SimpleData name="cod_cent">653402</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6601601</SimpleData>
-		<SimpleData name="rumbo">80.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">2100</SimpleData>
-		<SimpleData name="nombre">Av. Arcentales E-O(Av. Arcentales-Pl. Grecia- M-40)</SimpleData>
+		<SimpleData name="etiqueta">3503402</SimpleData>
+		<SimpleData name="fecha_inst">2026/07/14 00:00:00.571</SimpleData>
+		<SimpleData name="rumbo">18.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">200001</SimpleData>
+		<SimpleData name="idelem_zona_lectura">1736</SimpleData>
+		<SimpleData name="nombre">Sin Nombre</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.60871306345667,40.4349318558752</coordinates></Point>
+      <Point><coordinates>-3.62792916642126,40.3985964188655</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.454">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9124</SimpleData>
+		<SimpleData name="gid">8466</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">9941</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">148</SimpleData>
-		<SimpleData name="pm">BRT</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">793806</SimpleData>
+		<SimpleData name="idelem">9275</SimpleData>
+		<SimpleData name="bdistrito">19</SimpleData>
+		<SimpleData name="icruce">27</SimpleData>
+		<SimpleData name="pm">54011</SimpleData>
+		<SimpleData name="dis">19</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">540601</SimpleData>
 		<SimpleData name="averia">NO AVERIA</SimpleData>
 		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7903806</SimpleData>
-		<SimpleData name="rumbo">288.0000</SimpleData>
+		<SimpleData name="etiqueta">5400601</SimpleData>
+		<SimpleData name="rumbo">94.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">84226</SimpleData>
-		<SimpleData name="nombre">Detector Parada BRT  Sentido H 793806</SimpleData>
+		<SimpleData name="idelem_zona_lectura">2506</SimpleData>
+		<SimpleData name="nombre">AFOROS - San Cipriano 26 O-E(Villalmanzo-Lago Van)</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.65706577292335,40.4892718535394</coordinates></Point>
+      <Point><coordinates>-3.60738260383991,40.4040998836586</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.455">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
@@ -9398,27 +9399,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.459">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1663</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1786</SimpleData>
-		<SimpleData name="bdistrito">14</SimpleData>
-		<SimpleData name="icruce">31</SimpleData>
-		<SimpleData name="pm">65013</SimpleData>
-		<SimpleData name="dis">14</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">651602</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
-		<SimpleData name="etiqueta">6501602</SimpleData>
-		<SimpleData name="rumbo">27.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">118</SimpleData>
-		<SimpleData name="nombre">AFOROS - Fuente Carrantona 6 S-N(Encomienda de Palacios-Hacienda de Pavones)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.63666331842238,40.4001607280821</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.460">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4830</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">5105</SimpleData>
@@ -9438,7 +9418,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65945817040952,40.4907407350761</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.461">
+  <Placemark id="temp_espiras_umap.460">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2892</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9459,7 +9439,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66130344567717,40.391783026512</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.462">
+  <Placemark id="temp_espiras_umap.461">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7750</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9479,7 +9459,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60003267942954,40.4326034491696</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.463">
+  <Placemark id="temp_espiras_umap.462">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6246</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9500,7 +9480,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66017742075408,40.5012906057751</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.464">
+  <Placemark id="temp_espiras_umap.463">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9417</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9520,7 +9500,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61689257987878,40.4821933031704</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.465">
+  <Placemark id="temp_espiras_umap.464">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9490</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9540,7 +9520,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60834543354764,40.4902676152119</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.466">
+  <Placemark id="temp_espiras_umap.465">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1646</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9561,7 +9541,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62850488547079,40.412471685472</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.467">
+  <Placemark id="temp_espiras_umap.466">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7531</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9582,7 +9562,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64289257533632,40.443548708475</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.468">
+  <Placemark id="temp_espiras_umap.467">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9078</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9602,7 +9582,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64734922333982,40.4858517338361</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.469">
+  <Placemark id="temp_espiras_umap.468">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6351</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9623,7 +9603,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61214192549639,40.4208966797981</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.470">
+  <Placemark id="temp_espiras_umap.469">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">965</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9644,7 +9624,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65574065315286,40.4742084295735</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.471">
+  <Placemark id="temp_espiras_umap.470">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4206</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9665,7 +9645,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62473069729405,40.3824285460526</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.472">
+  <Placemark id="temp_espiras_umap.471">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9836</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9685,7 +9665,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61129206718162,40.4895191974807</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.473">
+  <Placemark id="temp_espiras_umap.472">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9359</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9705,7 +9685,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61441988498862,40.4821578940579</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.474">
+  <Placemark id="temp_espiras_umap.473">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7802</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -9724,7 +9704,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6839923696272,40.3767799071388</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.475">
+  <Placemark id="temp_espiras_umap.474">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">4748</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -9742,6 +9722,26 @@
 		<SimpleData name="nombre">Sin Nombre</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66428677921191,40.4073028161066</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.475">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9124</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">9941</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">148</SimpleData>
+		<SimpleData name="pm">BRT</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">793806</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">7903806</SimpleData>
+		<SimpleData name="rumbo">288.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">84226</SimpleData>
+		<SimpleData name="nombre">Detector Parada BRT  Sentido H 793806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.65706577292335,40.4892718535394</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.476">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
@@ -9808,6 +9808,48 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.479">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">8597</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">9409</SimpleData>
+		<SimpleData name="bdistrito">13</SimpleData>
+		<SimpleData name="icruce">22</SimpleData>
+		<SimpleData name="pm">68012</SimpleData>
+		<SimpleData name="dis">13</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">680205</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">6800205</SimpleData>
+		<SimpleData name="rumbo">348.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9164</SimpleData>
+		<SimpleData name="nombre">Av. Entrev?as S-N (Timoteo P?rez Rubio - Renfe)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67190174075234,40.3889429821329</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.480">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">1052</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">1147</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">40</SimpleData>
+		<SimpleData name="pm">55031</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">553101</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="etiqueta">5503101</SimpleData>
+		<SimpleData name="rumbo">305.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">485</SimpleData>
+		<SimpleData name="nombre">Entrada desde M-40 Oeste(M-40-Av. de los Andes)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61895894274898,40.4587754679157</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.481">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">45</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">46</SimpleData>
@@ -9827,7 +9869,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63280874767419,40.430474972158</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.480">
+  <Placemark id="temp_espiras_umap.482">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9125</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9847,7 +9889,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65711179422461,40.4892802591546</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.481">
+  <Placemark id="temp_espiras_umap.483">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5348</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -9866,7 +9908,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65971381560891,40.4352552196105</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.482">
+  <Placemark id="temp_espiras_umap.484">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9997</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9886,7 +9928,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65618053480832,40.3813231298947</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.483">
+  <Placemark id="temp_espiras_umap.485">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2483</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9907,7 +9949,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64207216994831,40.3882471074605</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.484">
+  <Placemark id="temp_espiras_umap.486">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8135</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9927,7 +9969,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65843536373951,40.4503645692778</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.485">
+  <Placemark id="temp_espiras_umap.487">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9021</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9947,7 +9989,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63313949574466,40.4866207704092</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.486">
+  <Placemark id="temp_espiras_umap.488">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8264</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9967,7 +10009,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6262793335407,40.449150632469</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.487">
+  <Placemark id="temp_espiras_umap.489">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">198</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -9988,7 +10030,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65725698308174,40.4347564675852</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.488">
+  <Placemark id="temp_espiras_umap.490">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8159</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10009,7 +10051,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6469271148252,40.429059317021</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.489">
+  <Placemark id="temp_espiras_umap.491">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7540</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10029,7 +10071,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66278941737215,40.4611524497983</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.490">
+  <Placemark id="temp_espiras_umap.492">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1490</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10050,7 +10092,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62938136321607,40.425748092562</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.491">
+  <Placemark id="temp_espiras_umap.493">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8876</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10071,7 +10113,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.58693895538103,40.4448563391498</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.492">
+  <Placemark id="temp_espiras_umap.494">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2872</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10092,7 +10134,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65305557084481,40.3879706562672</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.493">
+  <Placemark id="temp_espiras_umap.495">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5038</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10113,7 +10155,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60622471382294,40.4264526782743</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.494">
+  <Placemark id="temp_espiras_umap.496">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7972</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10133,7 +10175,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62663061269307,40.4324883008803</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.495">
+  <Placemark id="temp_espiras_umap.497">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8073</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10153,7 +10195,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66047927369143,40.45247054932</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.496">
+  <Placemark id="temp_espiras_umap.498">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6229</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10174,7 +10216,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64905770636766,40.4121364474319</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.497">
+  <Placemark id="temp_espiras_umap.499">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9169</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10194,7 +10236,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65682143520541,40.494949598888</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.498">
+  <Placemark id="temp_espiras_umap.500">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">3011</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10215,7 +10257,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65711008236941,40.4384809801592</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.499">
+  <Placemark id="temp_espiras_umap.501">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1885</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10236,7 +10278,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6677857462837,40.4726991215596</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.500">
+  <Placemark id="temp_espiras_umap.502">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">942</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10257,7 +10299,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66533416688387,40.47454296241</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.501">
+  <Placemark id="temp_espiras_umap.503">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">81</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10278,7 +10320,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6446268835043,40.4292280718998</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.502">
+  <Placemark id="temp_espiras_umap.504">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6214</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -10298,48 +10340,6 @@
 		<SimpleData name="nombre">Condado de Trevi?o 24 O-E(Av. San Luis-M-30)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67295118507562,40.4788629755268</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.503">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8597</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">9409</SimpleData>
-		<SimpleData name="bdistrito">13</SimpleData>
-		<SimpleData name="icruce">22</SimpleData>
-		<SimpleData name="pm">68012</SimpleData>
-		<SimpleData name="dis">13</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">680205</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6800205</SimpleData>
-		<SimpleData name="rumbo">348.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9164</SimpleData>
-		<SimpleData name="nombre">Av. Entrev?as S-N (Timoteo P?rez Rubio - Renfe)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.67190174075234,40.3889429821329</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.504">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1052</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1147</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">40</SimpleData>
-		<SimpleData name="pm">55031</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">553101</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5503101</SimpleData>
-		<SimpleData name="rumbo">305.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">485</SimpleData>
-		<SimpleData name="nombre">Entrada desde M-40 Oeste(M-40-Av. de los Andes)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61895894274898,40.4587754679157</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.505">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
