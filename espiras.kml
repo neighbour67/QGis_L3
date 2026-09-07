@@ -4180,27 +4180,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.205">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1662</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1785</SimpleData>
-		<SimpleData name="bdistrito">14</SimpleData>
-		<SimpleData name="icruce">31</SimpleData>
-		<SimpleData name="pm">65005</SimpleData>
-		<SimpleData name="dis">14</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">651604</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6501604</SimpleData>
-		<SimpleData name="rumbo">27.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">115</SimpleData>
-		<SimpleData name="nombre">Fuente Carrantona 9 N-S(Luis de Hoyos Sa?nz-Hacienda de Pavones)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.63564902364172,40.4017837747578</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.206">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1558</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">1679</SimpleData>
@@ -4220,7 +4199,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.59100033771418,40.4614549102314</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.207">
+  <Placemark id="temp_espiras_umap.206">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5975</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4239,7 +4218,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66418274166419,40.4061584310396</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.208">
+  <Placemark id="temp_espiras_umap.207">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6541</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4260,7 +4239,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66093363216613,40.4852281934357</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.209">
+  <Placemark id="temp_espiras_umap.208">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8599</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4281,7 +4260,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.67165304392563,40.3877509802883</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.210">
+  <Placemark id="temp_espiras_umap.209">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9063</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4301,7 +4280,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62660140597463,40.4827347480098</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.211">
+  <Placemark id="temp_espiras_umap.210">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2883</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4322,7 +4301,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.64764459076341,40.3840855186005</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.212">
+  <Placemark id="temp_espiras_umap.211">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5450</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4341,7 +4320,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65895855766749,40.4168739217249</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.213">
+  <Placemark id="temp_espiras_umap.212">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5186</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -4360,7 +4339,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66577359326266,40.4620128292234</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.214">
+  <Placemark id="temp_espiras_umap.213">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">227</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -4380,6 +4359,27 @@
 		<SimpleData name="nombre">Arturo Soria 256 S-N(A?astro-Ramonet)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66634575032581,40.4679579512589</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.214">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">1662</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">1785</SimpleData>
+		<SimpleData name="bdistrito">14</SimpleData>
+		<SimpleData name="icruce">31</SimpleData>
+		<SimpleData name="pm">65005</SimpleData>
+		<SimpleData name="dis">14</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">651604</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">6501604</SimpleData>
+		<SimpleData name="rumbo">27.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">115</SimpleData>
+		<SimpleData name="nombre">Fuente Carrantona 9 N-S(Luis de Hoyos Sa?nz-Hacienda de Pavones)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.63564902364172,40.4017837747578</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.215">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
@@ -12925,8 +12925,8 @@
 		<SimpleData name="dis">15</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">591401</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5901401</SimpleData>
 		<SimpleData name="rumbo">328.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -12946,8 +12946,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651603</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501603</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -28964,8 +28964,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">402301</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4002301</SimpleData>
 		<SimpleData name="rumbo">28.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -31249,8 +31249,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553005</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5503005</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -32090,8 +32090,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554503</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">5504503</SimpleData>
 		<SimpleData name="rumbo">213.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -32807,8 +32807,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554404</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504404</SimpleData>
 		<SimpleData name="rumbo">243.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -33027,8 +33027,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554304</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504304</SimpleData>
 		<SimpleData name="rumbo">335.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -33049,8 +33049,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554308</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504308</SimpleData>
 		<SimpleData name="rumbo">10.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -33070,8 +33070,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651601</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">6501601</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -33090,8 +33090,8 @@
 		<SimpleData name="pm">70032</SimpleData>
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="cod_cent">702014</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">7002014</SimpleData>
 		<SimpleData name="rumbo">181.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -38792,8 +38792,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553305</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5503305</SimpleData>
 		<SimpleData name="rumbo">6.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -38894,8 +38894,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554405</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504405</SimpleData>
 		<SimpleData name="rumbo">243.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -42096,8 +42096,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">680401</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">6800401</SimpleData>
 		<SimpleData name="rumbo">347.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -42278,8 +42278,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552905</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5502905</SimpleData>
 		<SimpleData name="rumbo">244.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -53283,8 +53283,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">402403</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4002403</SimpleData>
 		<SimpleData name="rumbo">28.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -54701,8 +54701,8 @@
 		<SimpleData name="dis">20</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">572003</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5702003</SimpleData>
 		<SimpleData name="rumbo">139.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -54722,8 +54722,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">574002</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">5704002</SimpleData>
 		<SimpleData name="rumbo">81.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">310001</SimpleData>
@@ -54743,8 +54743,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651504</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501504</SimpleData>
 		<SimpleData name="rumbo">31.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -54764,8 +54764,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651602</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501602</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -55280,26 +55280,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.2707">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9398</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">10210</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">164</SimpleData>
-		<SimpleData name="pm">70032</SimpleData>
-		<SimpleData name="dis">21</SimpleData>
-		<SimpleData name="cod_cent">702015</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7002015</SimpleData>
-		<SimpleData name="rumbo">181.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">84309</SimpleData>
-		<SimpleData name="nombre">Francisco Umbral S-N (Juan Daniel Fullaondo-Gta. Isidro Gonzalez Vel?zquez)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.62563546028727,40.4809161017573</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.2708">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1038</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">1133</SimpleData>
@@ -55309,8 +55289,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554406</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504406</SimpleData>
 		<SimpleData name="rumbo">243.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -55319,7 +55299,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62058468263789,40.4553141075769</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.2709">
+  <Placemark id="temp_espiras_umap.2708">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1043</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -55330,8 +55310,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554501</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504501</SimpleData>
 		<SimpleData name="rumbo">213.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -55340,7 +55320,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61855434497747,40.4564270170343</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.2710">
+  <Placemark id="temp_espiras_umap.2709">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1665</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -55351,8 +55331,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651701</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">6501701</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -55360,6 +55340,26 @@
 		<SimpleData name="nombre">AFOROS - Fuente Carrantona 5 N-S(Hacienda de Palacios-Encomienda de Palacios)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63736706857144,40.3992027651836</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.2710">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9398</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">10210</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">164</SimpleData>
+		<SimpleData name="pm">70032</SimpleData>
+		<SimpleData name="dis">21</SimpleData>
+		<SimpleData name="cod_cent">702015</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
+		<SimpleData name="etiqueta">7002015</SimpleData>
+		<SimpleData name="rumbo">181.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">84309</SimpleData>
+		<SimpleData name="nombre">Francisco Umbral S-N (Juan Daniel Fullaondo-Gta. Isidro Gonzalez Vel?zquez)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62563546028727,40.4809161017573</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.2711">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
@@ -56047,8 +56047,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552901</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5502901</SimpleData>
 		<SimpleData name="rumbo">245.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -56068,8 +56068,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554303</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504303</SimpleData>
 		<SimpleData name="rumbo">335.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -56090,8 +56090,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554407</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504407</SimpleData>
 		<SimpleData name="rumbo">244.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -56112,8 +56112,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554408</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504408</SimpleData>
 		<SimpleData name="rumbo">244.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -58885,8 +58885,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552906</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5502906</SimpleData>
 		<SimpleData name="rumbo">244.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -63004,8 +63004,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552902</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5502902</SimpleData>
 		<SimpleData name="rumbo">245.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -63025,8 +63025,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552903</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5502903</SimpleData>
 		<SimpleData name="rumbo">245.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -64149,8 +64149,8 @@
 		<SimpleData name="dis">20</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">450501</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">4500501</SimpleData>
 		<SimpleData name="rumbo">241.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -64170,8 +64170,8 @@
 		<SimpleData name="dis">15</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">470703</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">4700703</SimpleData>
 		<SimpleData name="rumbo">304.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -64883,8 +64883,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">792205</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">7902205</SimpleData>
 		<SimpleData name="rumbo">93.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -67392,8 +67392,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651702</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501702</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -67719,8 +67719,8 @@
 		<SimpleData name="dis">15</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">472501</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4702501</SimpleData>
 		<SimpleData name="rumbo">333.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -67881,8 +67881,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554309</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504309</SimpleData>
 		<SimpleData name="rumbo">10.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -67902,8 +67902,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554401</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504401</SimpleData>
 		<SimpleData name="rumbo">317.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -67923,8 +67923,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554502</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504502</SimpleData>
 		<SimpleData name="rumbo">213.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -67944,8 +67944,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">574003</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">5704003</SimpleData>
 		<SimpleData name="rumbo">117.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">310001</SimpleData>
@@ -68126,8 +68126,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553004</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503004</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -68147,8 +68147,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553006</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5503006</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -68168,8 +68168,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553306</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503306</SimpleData>
 		<SimpleData name="rumbo">6.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -68190,8 +68190,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554307</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5504307</SimpleData>
 		<SimpleData name="rumbo">10.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -68212,8 +68212,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">554409</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5504409</SimpleData>
 		<SimpleData name="rumbo">244.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -68233,8 +68233,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">563803</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5603803</SimpleData>
 		<SimpleData name="rumbo">52.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -68254,8 +68254,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">400301</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">4000301</SimpleData>
 		<SimpleData name="rumbo">285.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -68801,48 +68801,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.3370">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">6576</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">6992</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">43</SimpleData>
-		<SimpleData name="pm">55056</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="observ">0</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">552910</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5502910</SimpleData>
-		<SimpleData name="rumbo">245.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9082</SimpleData>
-		<SimpleData name="nombre">Av. de los Andes E-O(Gta. Mar Caribe-Abelias)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.623823476003,40.454110126563</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.3371">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8053</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">8799</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">100</SimpleData>
-		<SimpleData name="pm">79038</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">790305</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7900305</SimpleData>
-		<SimpleData name="rumbo">30.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8779</SimpleData>
-		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S (M-40 - Niceto Alcal? Zamora)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.64845508199379,40.4957303228925</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.3372">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">3112</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">3296</SimpleData>
@@ -68862,7 +68820,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.59415279767979,40.4039508283685</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3373">
+  <Placemark id="temp_espiras_umap.3371">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1570</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -68883,7 +68841,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.58579397116989,40.4643829005299</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3374">
+  <Placemark id="temp_espiras_umap.3372">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7061</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -68903,7 +68861,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66188371464119,40.3814320236399</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3375">
+  <Placemark id="temp_espiras_umap.3373">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9513</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -68923,7 +68881,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60845417420897,40.492201706561</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3376">
+  <Placemark id="temp_espiras_umap.3374">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">10025</SimpleData>
 		<SimpleData name="tipo_elem">101002</SimpleData>
@@ -68943,7 +68901,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62792916642126,40.3985964188655</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3377">
+  <Placemark id="temp_espiras_umap.3375">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5984</SimpleData>
 		<SimpleData name="tipo_elem">5401</SimpleData>
@@ -68962,7 +68920,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65502848041633,40.4178709397893</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3378">
+  <Placemark id="temp_espiras_umap.3376">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">935</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -68983,7 +68941,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66885570859386,40.4781821092731</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3379">
+  <Placemark id="temp_espiras_umap.3377">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6575</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -68995,8 +68953,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552909</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5502909</SimpleData>
 		<SimpleData name="rumbo">245.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69004,6 +68962,48 @@
 		<SimpleData name="nombre">Av. de los Andes E-O(Gta. Mar Caribe-Abelias)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62384187042758,40.4541366391777</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.3378">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">6576</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">6992</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">43</SimpleData>
+		<SimpleData name="pm">55056</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="observ">0</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">552910</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">5502910</SimpleData>
+		<SimpleData name="rumbo">245.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9082</SimpleData>
+		<SimpleData name="nombre">Av. de los Andes E-O(Gta. Mar Caribe-Abelias)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.623823476003,40.454110126563</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.3379">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">8053</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">8799</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">100</SimpleData>
+		<SimpleData name="pm">79038</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">790305</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">7900305</SimpleData>
+		<SimpleData name="rumbo">30.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8779</SimpleData>
+		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S (M-40 - Niceto Alcal? Zamora)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.64845508199379,40.4957303228925</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.3380">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
@@ -69077,8 +69077,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">790304</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">7900304</SimpleData>
 		<SimpleData name="rumbo">30.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69117,8 +69117,8 @@
 		<SimpleData name="pm">72020</SimpleData>
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="cod_cent">721812</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">7201812</SimpleData>
 		<SimpleData name="rumbo">180.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69137,8 +69137,8 @@
 		<SimpleData name="pm">72020</SimpleData>
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="cod_cent">721813</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">7201813</SimpleData>
 		<SimpleData name="rumbo">180.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69258,8 +69258,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">400705</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4000705</SimpleData>
 		<SimpleData name="rumbo">301.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69279,8 +69279,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">401805</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4001805</SimpleData>
 		<SimpleData name="rumbo">35.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69300,8 +69300,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">410204</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4100204</SimpleData>
 		<SimpleData name="rumbo">305.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69321,8 +69321,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">410205</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
 		<SimpleData name="etiqueta">4100205</SimpleData>
 		<SimpleData name="rumbo">305.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69342,8 +69342,8 @@
 		<SimpleData name="dis">13</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">410707</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">4100707</SimpleData>
 		<SimpleData name="rumbo">35.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69362,8 +69362,8 @@
 		<SimpleData name="pm">55019</SimpleData>
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="cod_cent">553103</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503103</SimpleData>
 		<SimpleData name="rumbo">305.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -69383,8 +69383,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553201</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503201</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69404,8 +69404,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553202</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5503202</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69425,8 +69425,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553203</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503203</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69446,8 +69446,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553204</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5503204</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69467,8 +69467,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553205</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503205</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -69488,8 +69488,8 @@
 		<SimpleData name="dis">15</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">590302</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5900302</SimpleData>
 		<SimpleData name="rumbo">76.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -70059,8 +70059,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552907</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5502907</SimpleData>
 		<SimpleData name="rumbo">244.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70081,8 +70081,8 @@
 		<SimpleData name="observ">0</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">552908</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5502908</SimpleData>
 		<SimpleData name="rumbo">245.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -70102,8 +70102,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553206</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
 		<SimpleData name="etiqueta">5503206</SimpleData>
 		<SimpleData name="rumbo">212.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70123,8 +70123,8 @@
 		<SimpleData name="dis">21</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553207</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503207</SimpleData>
 		<SimpleData name="rumbo">102.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70144,8 +70144,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">553304</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5503304</SimpleData>
 		<SimpleData name="rumbo">6.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -70156,27 +70156,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.3436">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">2470</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">2627</SimpleData>
-		<SimpleData name="bdistrito">14</SimpleData>
-		<SimpleData name="icruce">30</SimpleData>
-		<SimpleData name="pm">65004</SimpleData>
-		<SimpleData name="dis">14</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">651503</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6501503</SimpleData>
-		<SimpleData name="rumbo">31.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">112</SimpleData>
-		<SimpleData name="nombre">Fuente Carrantona 17 N-S(Mario Cabr?-Luis de Hoyos Sainz)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.63354323503349,40.4050060505034</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.3437">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1660</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">1783</SimpleData>
@@ -70186,8 +70165,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651401</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501401</SimpleData>
 		<SimpleData name="rumbo">31.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70196,7 +70175,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63206457708628,40.4064645118665</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3438">
+  <Placemark id="temp_espiras_umap.3437">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1659</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -70207,8 +70186,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651402</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501402</SimpleData>
 		<SimpleData name="rumbo">31.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70217,7 +70196,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.632097398741,40.4064807321796</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3439">
+  <Placemark id="temp_espiras_umap.3438">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5015</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -70228,8 +70207,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651403</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501403</SimpleData>
 		<SimpleData name="rumbo">31.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70238,7 +70217,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63223063996325,40.4065082819532</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3440">
+  <Placemark id="temp_espiras_umap.3439">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">5014</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -70249,8 +70228,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651404</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501404</SimpleData>
 		<SimpleData name="rumbo">31.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -70259,7 +70238,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63219315841663,40.4064926743065</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3441">
+  <Placemark id="temp_espiras_umap.3440">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2472</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -70270,8 +70249,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651501</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501501</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -70280,7 +70259,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63490548609247,40.4027422980395</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.3442">
+  <Placemark id="temp_espiras_umap.3441">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">2471</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -70291,8 +70270,8 @@
 		<SimpleData name="dis">14</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">651502</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">6501502</SimpleData>
 		<SimpleData name="rumbo">27.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
@@ -70300,6 +70279,27 @@
 		<SimpleData name="nombre">Fuente Carrantona 16 S-N(Hacienda de Pavones-Luis de Hoyos Sainz)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.63492722781591,40.4027722645085</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.3442">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">2470</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">2627</SimpleData>
+		<SimpleData name="bdistrito">14</SimpleData>
+		<SimpleData name="icruce">30</SimpleData>
+		<SimpleData name="pm">65004</SimpleData>
+		<SimpleData name="dis">14</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">651503</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">6501503</SimpleData>
+		<SimpleData name="rumbo">31.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">112</SimpleData>
+		<SimpleData name="nombre">Fuente Carrantona 17 N-S(Mario Cabr?-Luis de Hoyos Sainz)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.63354323503349,40.4050060505034</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.3443">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
