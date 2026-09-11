@@ -17234,26 +17234,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.841">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9429</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">10241</SimpleData>
-		<SimpleData name="bdistrito">21</SimpleData>
-		<SimpleData name="icruce">25</SimpleData>
-		<SimpleData name="pm">70013</SimpleData>
-		<SimpleData name="dis">21</SimpleData>
-		<SimpleData name="cod_cent">702713</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7002713</SimpleData>
-		<SimpleData name="rumbo">90.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9606</SimpleData>
-		<SimpleData name="nombre">Av. Fuerzas Armadas - Ciudad Deportiva O-E (V?a Servicio)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.61135490436347,40.482012308304</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.842">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6171</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
 		<SimpleData name="idelem">6516</SimpleData>
@@ -17273,7 +17253,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.61081721839565,40.4498586913462</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.843">
+  <Placemark id="temp_espiras_umap.842">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8889</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -17293,7 +17273,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60571647826986,40.3672015686136</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.844">
+  <Placemark id="temp_espiras_umap.843">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1485</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -17314,7 +17294,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62984408843311,40.4265627238689</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.845">
+  <Placemark id="temp_espiras_umap.844">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7728</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -17334,7 +17314,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62415126374919,40.4477835264688</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.846">
+  <Placemark id="temp_espiras_umap.845">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9277</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -17355,7 +17335,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.65644220813663,40.4989930946786</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.847">
+  <Placemark id="temp_espiras_umap.846">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8974</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -17375,6 +17355,26 @@
 		<SimpleData name="nombre">Av. Ensanche Vallecas E-O(Rafael León-Jos? Guti?rrez)(V?a Servicio)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6019524969486,40.3651785235629</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.847">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9429</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">10241</SimpleData>
+		<SimpleData name="bdistrito">21</SimpleData>
+		<SimpleData name="icruce">25</SimpleData>
+		<SimpleData name="pm">70013</SimpleData>
+		<SimpleData name="dis">21</SimpleData>
+		<SimpleData name="cod_cent">702713</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
+		<SimpleData name="etiqueta">7002713</SimpleData>
+		<SimpleData name="rumbo">90.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9606</SimpleData>
+		<SimpleData name="nombre">Av. Fuerzas Armadas - Ciudad Deportiva O-E (V?a Servicio)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61135490436347,40.482012308304</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.848">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
