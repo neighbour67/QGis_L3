@@ -36400,27 +36400,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.1776">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9233</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">10044</SimpleData>
-		<SimpleData name="bdistrito">20</SimpleData>
-		<SimpleData name="icruce">59</SimpleData>
-		<SimpleData name="pm">66046</SimpleData>
-		<SimpleData name="dis">20</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">660105</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">6600105</SimpleData>
-		<SimpleData name="rumbo">170.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9358</SimpleData>
-		<SimpleData name="nombre">Suecia 95 S-N (Subr.66011 - Pl. Grecia)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.60615268840778,40.434192736024</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.1777">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">8071</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">8817</SimpleData>
@@ -36438,6 +36417,27 @@
 		<SimpleData name="nombre">Jos? Silva 19 O-E (Torrelaguna - San Nemesio)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66005995868467,40.453954301939</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.1777">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9233</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">10044</SimpleData>
+		<SimpleData name="bdistrito">20</SimpleData>
+		<SimpleData name="icruce">59</SimpleData>
+		<SimpleData name="pm">66046</SimpleData>
+		<SimpleData name="dis">20</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">660105</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
+		<SimpleData name="etiqueta">6600105</SimpleData>
+		<SimpleData name="rumbo">170.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9358</SimpleData>
+		<SimpleData name="nombre">Suecia 95 S-N (Subr.66011 - Pl. Grecia)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60615268840778,40.434192736024</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.1778">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
