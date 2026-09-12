@@ -53645,27 +53645,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.2622">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">5003</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">5336</SimpleData>
-		<SimpleData name="bdistrito">15</SimpleData>
-		<SimpleData name="icruce">122</SimpleData>
-		<SimpleData name="pm">53409</SimpleData>
-		<SimpleData name="dis">15</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">531301</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5301301</SimpleData>
-		<SimpleData name="rumbo">81.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">405</SimpleData>
-		<SimpleData name="nombre">T?CTICO - Francisco Villaespesa O-E(Ezequiel Solana-Ber?stegui)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.64264956287817,40.4295264181379</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.2623">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7059</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">7719</SimpleData>
@@ -53684,7 +53663,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66266528175124,40.3815518504745</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.2624">
+  <Placemark id="temp_espiras_umap.2623">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">932</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -53704,6 +53683,27 @@
 		<SimpleData name="nombre">Arturo Soria 328 S-N(Cultura-Dalia)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66816121509937,40.4791588725299</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.2624">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">5003</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">5336</SimpleData>
+		<SimpleData name="bdistrito">15</SimpleData>
+		<SimpleData name="icruce">122</SimpleData>
+		<SimpleData name="pm">53409</SimpleData>
+		<SimpleData name="dis">15</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">531301</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">5301301</SimpleData>
+		<SimpleData name="rumbo">81.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">405</SimpleData>
+		<SimpleData name="nombre">T?CTICO - Francisco Villaespesa O-E(Ezequiel Solana-Ber?stegui)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.64264956287817,40.4295264181379</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.2625">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
