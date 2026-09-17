@@ -52426,27 +52426,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.2565">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">1003</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">1098</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">36</SimpleData>
-		<SimpleData name="pm">56017</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">561501</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">5601501</SimpleData>
-		<SimpleData name="rumbo">278.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">469</SimpleData>
-		<SimpleData name="nombre">Ayacucho 15 E-O(C.O.E.-Mar Adri?tico)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.63684259515811,40.4697148668751</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.2566">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">9375</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">10187</SimpleData>
@@ -52465,7 +52444,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.60802996973809,40.4828466226771</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.2567">
+  <Placemark id="temp_espiras_umap.2566">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6747</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -52485,7 +52464,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.62912791425301,40.3830623777611</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.2568">
+  <Placemark id="temp_espiras_umap.2567">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">943</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
@@ -52506,7 +52485,7 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66426542250485,40.4740415880709</coordinates></Point>
   </Placemark>
-  <Placemark id="temp_espiras_umap.2569">
+  <Placemark id="temp_espiras_umap.2568">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">7260</SimpleData>
 		<SimpleData name="tipo_elem">311001</SimpleData>
@@ -52526,6 +52505,27 @@
 		<SimpleData name="nombre">OPT. Av. Entrev?as N-S(La Mancha-Membezar)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66859251093034,40.3815382936602</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.2569">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">1003</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">1098</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">36</SimpleData>
+		<SimpleData name="pm">56017</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">561501</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">5601501</SimpleData>
+		<SimpleData name="rumbo">278.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">469</SimpleData>
+		<SimpleData name="nombre">Ayacucho 15 E-O(C.O.E.-Mar Adri?tico)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.63684259515811,40.4697148668751</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.2570">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
