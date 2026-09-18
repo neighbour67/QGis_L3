@@ -23592,8 +23592,8 @@
 		<SimpleData name="dis">15</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">591603</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
 		<SimpleData name="etiqueta">5901603</SimpleData>
 		<SimpleData name="rumbo">10.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5456</SimpleData>
@@ -52517,8 +52517,8 @@
 		<SimpleData name="dis">16</SimpleData>
 		<SimpleData name="estado">0</SimpleData>
 		<SimpleData name="cod_cent">561501</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="averia">NO AVERIA</SimpleData>
+		<SimpleData name="averia_des"></SimpleData>
 		<SimpleData name="etiqueta">5601501</SimpleData>
 		<SimpleData name="rumbo">278.0000</SimpleData>
 		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
