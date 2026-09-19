@@ -55997,47 +55997,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.2740">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">4867</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">5146</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">100</SimpleData>
-		<SimpleData name="pm">79038</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="estado">0</SimpleData>
-		<SimpleData name="cod_cent">790304</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
-		<SimpleData name="etiqueta">7900304</SimpleData>
-		<SimpleData name="rumbo">30.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8779</SimpleData>
-		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S (M-40 - Niceto Alcal? Zamora)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.64849443064144,40.4957458380993</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.2741">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">8053</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">8799</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">100</SimpleData>
-		<SimpleData name="pm">79038</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">790305</SimpleData>
-		<SimpleData name="averia">AVERIA</SimpleData>
-		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
-		<SimpleData name="etiqueta">7900305</SimpleData>
-		<SimpleData name="rumbo">30.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">8779</SimpleData>
-		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S (M-40 - Niceto Alcal? Zamora)</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.64845508199379,40.4957303228925</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.2742">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">6540</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">6945</SimpleData>
@@ -56056,6 +56015,47 @@
 		<SimpleData name="nombre">C? Fuente de la Mora S-N(Av. Manoteras-Pr?ncipe Carlos)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.66112469537017,40.4857414427033</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.2741">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">4867</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">5146</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">100</SimpleData>
+		<SimpleData name="pm">79038</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="estado">0</SimpleData>
+		<SimpleData name="cod_cent">790304</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">OCUPACION PERMANENTE</SimpleData>
+		<SimpleData name="etiqueta">7900304</SimpleData>
+		<SimpleData name="rumbo">30.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8779</SimpleData>
+		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S (M-40 - Niceto Alcal? Zamora)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.64849443064144,40.4957458380993</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.2742">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">8053</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">8799</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">100</SimpleData>
+		<SimpleData name="pm">79038</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">790305</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">CONTAJE INCORRECTO</SimpleData>
+		<SimpleData name="etiqueta">7900305</SimpleData>
+		<SimpleData name="rumbo">30.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">8779</SimpleData>
+		<SimpleData name="nombre">Ingeniero Emilio Herrera N-S (M-40 - Niceto Alcal? Zamora)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.64845508199379,40.4957303228925</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.2743">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
