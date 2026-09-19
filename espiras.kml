@@ -40608,26 +40608,6 @@
   </Placemark>
   <Placemark id="temp_espiras_umap.1985">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
-		<SimpleData name="gid">9532</SimpleData>
-		<SimpleData name="tipo_elem">5400</SimpleData>
-		<SimpleData name="idelem">10344</SimpleData>
-		<SimpleData name="bdistrito">16</SimpleData>
-		<SimpleData name="icruce">183</SimpleData>
-		<SimpleData name="pm">BRT</SimpleData>
-		<SimpleData name="dis">16</SimpleData>
-		<SimpleData name="cod_cent">721001</SimpleData>
-		<SimpleData name="averia">NO AVERIA</SimpleData>
-		<SimpleData name="averia_des"></SimpleData>
-		<SimpleData name="etiqueta">7201001</SimpleData>
-		<SimpleData name="rumbo">166.0000</SimpleData>
-		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
-		<SimpleData name="idelem_zona_lectura">9527</SimpleData>
-		<SimpleData name="nombre">Detector Aproximaci?n BRT Sentido V 7210001</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-3.60828645255993,40.4949697870386</coordinates></Point>
-  </Placemark>
-  <Placemark id="temp_espiras_umap.1986">
-	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
 		<SimpleData name="gid">1614</SimpleData>
 		<SimpleData name="tipo_elem">5400</SimpleData>
 		<SimpleData name="idelem">1737</SimpleData>
@@ -40646,6 +40626,26 @@
 		<SimpleData name="nombre">AFOROS - Camino Vinateros 13 E-O(Arroyo Media Legua-Corregidor Diego Valderr?bano)</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-3.6570196575943,40.4107036900461</coordinates></Point>
+  </Placemark>
+  <Placemark id="temp_espiras_umap.1986">
+	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
+		<SimpleData name="gid">9532</SimpleData>
+		<SimpleData name="tipo_elem">5400</SimpleData>
+		<SimpleData name="idelem">10344</SimpleData>
+		<SimpleData name="bdistrito">16</SimpleData>
+		<SimpleData name="icruce">183</SimpleData>
+		<SimpleData name="pm">BRT</SimpleData>
+		<SimpleData name="dis">16</SimpleData>
+		<SimpleData name="cod_cent">721001</SimpleData>
+		<SimpleData name="averia">AVERIA</SimpleData>
+		<SimpleData name="averia_des">NO CUENTA</SimpleData>
+		<SimpleData name="etiqueta">7201001</SimpleData>
+		<SimpleData name="rumbo">166.0000</SimpleData>
+		<SimpleData name="tipo_elem_zona_lectura">5450</SimpleData>
+		<SimpleData name="idelem_zona_lectura">9527</SimpleData>
+		<SimpleData name="nombre">Detector Aproximaci?n BRT Sentido V 7210001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60828645255993,40.4949697870386</coordinates></Point>
   </Placemark>
   <Placemark id="temp_espiras_umap.1987">
 	<ExtendedData><SchemaData schemaUrl="#temp_espiras_umap">
